@@ -6,7 +6,7 @@ description: Why-asker.
 
 profile:
   align: right
-  image: 
+  image: 13662320.png
   address: >
     <p><i class="fab fs-map-marker-alt"></i> Germany</p>
 
