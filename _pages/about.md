@@ -8,14 +8,14 @@ profile:
   align: right
   image: 13662320.png
   address: >
-    <p align='center'><i class="fas fa-map-marker-alt"></i> Germany</p>
+    <div align='center'><p><i class="fas fa-map-marker-alt"></i> Germany</p></div>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I am Hendrik. I enjoy learning, teaching and everything that rewards problem solving and creativity, like programming.
+Hi, I am Hendrik. I enjoy learning, teaching and everything that rewards problem solving and creativity.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
