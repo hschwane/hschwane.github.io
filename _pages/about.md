@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Why-asker.  Head of crazy ideas. 
+description: Why-asker.  Head of crazy ideas. Scientist.
 
 profile:
   align: right
