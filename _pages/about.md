@@ -8,7 +8,7 @@ profile:
   align: right
   image: 13662320.png
   address: >
-    <p><i class="fas fa-map-marker-alt"></i> Germany</p>
+    <p align='center'><i class="fas fa-map-marker-alt"></i> Germany</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
