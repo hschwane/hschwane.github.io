@@ -6,6 +6,4 @@ description: Mentoring in Coputer Science and Programming. School to University 
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+In the future I will offer mentoring for students and anyone else who wants to learn programming and computer science.
