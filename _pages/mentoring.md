@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+permalink: /mentoring/
+title: mentoring
+description: Mentoring in Coputer Science and Programming. School to University level.
 nav: true
 ---
 
