@@ -21,6 +21,6 @@ Hi, I am Hendrik. I enjoy learning, teaching, bringing people together, and acti
 
 Usually I write code in` C/C++` or` python`. I am most experienced with` computer graphics`,` gpu programming` and scientific` simulation` and` visualization`. I have also worked with embedded systems and microcontrollers, UI and websites. Check out the [projects](projects) section for a selection of my public projects. Many other programming languages have crossed my path and I am quick to try a new tool for a project, as the basic skills of programming and software engineering carry over well.
 
-Before studying Visual Computing I worked in video production, where I have accuired some skills in `graphics design`, `photograpy` and `videography`. I am happy to offer those alongside my programming work.
+Before studying Visual Computing I worked in video production, where I have accuired some skills in `graphics design`,` photograpy` and` videography`. I am happy to offer those alongside my programming work.
 
 Other interests of mine are` cooking`,` electronics`,` photography`,` reading`,` writing`,` games`,` art` and` sailing`. About some of which you might be able to read more in the different sections of this website or [blog](blog) (when I get around to write something).  
