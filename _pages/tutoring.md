@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /tutoring/
-title: Tutoring
+title: tutoring
 description: Coputer Science and Programming. School to University level.
 nav: true
 ---
