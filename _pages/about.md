@@ -21,4 +21,4 @@ Usually I write code in `C/C++` or `python`. I am most experienced with `compute
 
 Before studying Visual Computing I worked in video production, where I have accuired some skills in `graphics design`, `photograpy` and `videography`. I am happy to offer those alongside my programming work.
 
-Other interests of mine are `cooking`,  `electronics`,  `photography`,  `reading`,  `writing`,  `art` and `sailing`. About some of which you might be able to read more in the different sections of this website or the [blog](blog) (when I get around to writing something).  
+Other interests of mine are `cooking`,  `electronics`,  `photography`,  `reading`,  `writing`,  `art`,  `games` and `sailing`. About some of which you might be able to read more in the different sections of this website or [blog](blog) (when I get around to write something).  
