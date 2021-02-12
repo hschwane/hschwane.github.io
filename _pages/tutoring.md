@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /mentoring/
-title: mentoring
-description: Mentoring in Coputer Science and Programming. School to University level.
+permalink: /tutoring/
+title: Tutoring
+description: Coputer Science and Programming. School to University level.
 nav: true
 ---
 
