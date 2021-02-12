@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I am Hendrik. I enjoy learning, teaching, bringing people together, and activities that rewards problem solving and creativity -- like programming. I study [Visual Computing at the University of Koblenz](https://www.uni-koblenz-landau.de/en/campus-koblenz/fb4/icv?set_language=en).
+Hi, I am Hendrik. I enjoy learning, teaching, bringing people together, and activities that reward problem solving and creativity -- like programming. I study [Visual Computing at the University of Koblenz](https://www.uni-koblenz-landau.de/en/campus-koblenz/fb4/icv?set_language=en).
 
 Usually I write code in `C/C++` or `python`. I am most experienced with `computer graphics`,  `gpu programming` and scientific `simulation` and `visualization`. I have also worked with embedded systems and microcontrollers, UI and websites. Check out the [projects](projects) section for a selection of my public projects. Many other programming languages have crossed my path and I am quick to try a new tool for a project, as the basic skills of programming and software engineering carry over well.
 
