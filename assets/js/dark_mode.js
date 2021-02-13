@@ -23,6 +23,9 @@ $(document).ready(function() {
             document.documentElement.removeAttribute("data-theme");
         }
         sessionStorage.setItem("theme", theme);
+        if(allowThemeStored == true) {
+            localStorage.setItem("theme", theme);
+        }
     };
 
     let trans = () => {
