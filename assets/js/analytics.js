@@ -12,11 +12,11 @@
   function gtag() { dataLayer.push(arguments); }
   gtag('js', new Date());
   gtag('config', '{{ site.google_analytics }}');
+  console.log("Running google analytics!")
 {% endif %}
 
 {% if site.enable_panelbear_analytics %}
-<!-- Panelbear Analytics - We respect your privacy -->
-  // google analytics
+  // Panelbear analytics
   var paScript = document.createElement('script');
   paScript.type = 'text/javascript';
   paScript.src = 'https://cdn.panelbear.com/analytics.js?site={{site.panelbear_analytics}}';
@@ -24,4 +24,5 @@
   
   window.panelbear = window.panelbear || function() { (window.panelbear.q = window.panelbear.q || []).push(arguments); };
   panelbear('config', { site: '{{site.panelbear_analytics}}' });
+  console.log("Running Panelbear analytics!")
 {% endif %}
