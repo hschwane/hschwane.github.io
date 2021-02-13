@@ -22,6 +22,7 @@ layout: default
   {% if site.disqus_shortname and page.comments %}
     <div id="disqus_thread"></div>
     <script type="text/javascript">
+      console.log("try activating disqus. variable:  "+window.allowDisqus);
       if(window.allowDisqus == true) {
         var disqus_shortname  = '{{ site.disqus_shortname }}';
         var disqus_identifier = '{{ page.id }}';
