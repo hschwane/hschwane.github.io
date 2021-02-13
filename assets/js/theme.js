@@ -1,6 +1,11 @@
 // Has to be in the head tag, otherwise a flicker effect will occur.
 let initTheme = () => {
-  let theme = sessionStorage.getItem("theme");
+  
+  var theme = localStorage.getItem("theme");
+  if (theme == null) {
+    theme = sessionStorage.getItem("theme");
+  }
+  
   if (theme == null) {
     const userPref = window.matchMedia;
     if (userPref && userPref('(prefers-color-scheme: dark)').matches) {
