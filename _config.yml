@@ -6,13 +6,12 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Hendrik
 middle_name: 
 last_name: Schwanekamp
-email: you@example.com
+email: hendrik.schwanekamp@gmx.net
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   My website...
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
 url:  # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
@@ -58,14 +57,14 @@ wikidata_id: # your wikidata id
 
 contact_note: 
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
+google_analytics: G-DRKSD6YS05 # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Kitchen-Tetris # your blog must have a name for it to show up in the nav bar
+blog_name: kitchenTetris # your blog must have a name for it to show up in the nav bar
 blog_description: Eventually I will write here about programming, cooking and my other interests.
 permalink: /blog/:year/:title/
 
@@ -74,7 +73,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname:  # put your disqus shortname
+disqus_shortname: hschwane # put your disqus shortname
 
 # -----------------------------------------------------------------------------
 # Collections
