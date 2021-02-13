@@ -22,7 +22,7 @@ layout: default
   {% if site.disqus_shortname and page.comments %}
     <div id="disqus_thread"></div>
     <script type="text/javascript">
-      if(allowDisqus) {
+      if(allowDisqus == true) {
         var disqus_shortname  = '{{ site.disqus_shortname }}';
         var disqus_identifier = '{{ page.id }}';
         var disqus_title      = {{ page.title | jsonify }};
