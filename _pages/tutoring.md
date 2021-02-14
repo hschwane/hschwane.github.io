@@ -8,14 +8,15 @@ nav: true
 
 <script type="text/javascript">
 $(document).ready(function() {
-    // Check if body height is higher than window height :)
     if ($("body").height() > $(window).height()) {
-        alert("Vertical Scrollbar! D:");
+        document.getElementById("link-to-german").style.visibility = "visible";
+    else
+        document.getElementById("link-to-german").style.visibility = "hidden";
     }
-}
+});
 </script>
 
-[German below](#german)
+<a href="#german" id="link-to-german">German below</a>
 
 Programming is fun. Programming together is even better. 
 You are new to programming and want to kickstart learning? 
