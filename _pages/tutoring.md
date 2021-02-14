@@ -6,19 +6,7 @@ description: Coputer Science and Programming. School to University level.
 nav: true
 ---
 
-<a href="#german" id="link-to-german">Deutsche Version unten</a>
-<script type="text/javascript">
-let showLinkFunc = function() {
-if ($("body").height() > $(window).height()) {
-document.getElementById("link-to-german").style.visibility = "visible";
-} else {
-document.getElementById("link-to-german").style.visibility = "hidden";
-}
-console.log("blub");
-};
-showLinkFunc();
-$(document).resize(showLinkFunc);
-</script>
+<a href="#german" id="hide-if-scrollbar">Deutsche Version unten</a>
 
 Programming is fun. Programming together is even better. You are new to programming and want to kickstart learning? 
 You learn computer science in school or university and want to boost your grades? 
