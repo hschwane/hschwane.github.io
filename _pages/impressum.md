@@ -2,7 +2,7 @@
 layout: page
 title: impressum
 permalink: /impressum
-description: Impressum and cookie usage.
+description: Contact details and cookie usage.
 nav: false
 ---
 
@@ -16,7 +16,9 @@ telefon: +49 157 76492810
 
 ## cookies
 
+## functional cookies
 ### functional cookies
+#### functional cookies
 When funcitonal cookies are enabled in the cookie preferences, we use scripts by [DISQUS](https://disqus.com/) to allow users to comment on blog posts. We also store your theme preference over multiple visits.
 
 ### tracking cookies
