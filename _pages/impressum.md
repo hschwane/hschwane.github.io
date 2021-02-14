@@ -12,7 +12,7 @@ Klever Straße 34a\
 46569 Hünxe
 
 email: [hendrik.schwanekamp (at) gmx.net](mailto:hendrik.schwanekamp@gmx.net)\
-telefon: +49 157 76492810
+phone: +49 157 76492810
 
 ---
 ### cookies
