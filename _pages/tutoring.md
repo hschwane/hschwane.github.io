@@ -27,6 +27,7 @@ As your tutor I will make sure you reach your learning goals as fast as possible
 If you are interested in tutoring, send me an [email](mailto:{{ site.email }}). Please include your current skills, learning goals and the weekdays/times that you prefer (I am in the CET timezone).  
 
 ---
+
 <a name="german"></a>
 Programmieren macht Spaß. Gemeinsam programmieren ist noch besser. 
 Du bist neu beim Programmieren und suchst einen schnellen start? 
