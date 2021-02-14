@@ -10,7 +10,7 @@ nav: true
 $(document).ready(function() {
     if ($("body").height() > $(window).height()) {
         document.getElementById("link-to-german").style.visibility = "visible";
-    else
+    } else {
         document.getElementById("link-to-german").style.visibility = "hidden";
     }
 });
