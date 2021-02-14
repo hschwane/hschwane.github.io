@@ -14,6 +14,7 @@ let showLinkFunc = () => {
         } else {
             document.getElementById("link-to-german").style.visibility = "hidden";
         }
+        console.log("blub");
     };
 showLinkFunc();
 $(document).resize(showLinkFunc);
