@@ -6,7 +6,7 @@ description: Computer Science and Programming. School to University level.
 nav: true
 ---
 
-<a href="#german" class="hide-if-scrollbar">Deutscher Text unten</a>
+<a href="#german" class="hide-if-scrollbar">deutscher Text unten</a>
 #### english
 Programming is fun. Programming together is even better. You are new to programming and want to kickstart learning? 
 You learn computer science in school or university and want to boost your grades? 
