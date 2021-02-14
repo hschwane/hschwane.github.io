@@ -8,7 +8,7 @@ nav: true
 
 <a href="#german" id="link-to-german">German below</a>
 <script type="text/javascript">
-let showLinkFunc = () => {
+let showLinkFunc = function() {
         if ($("body").height() > $(window).height()) {
             document.getElementById("link-to-german").style.visibility = "visible";
         } else {
