@@ -13,5 +13,6 @@ let showLinkFunc = function() {
   }
   console.log("blub");
 };
+
 $(document).ready(showLinkFunc);
-$(document).resize(showLinkFunc);
+$(window).resize(showLinkFunc);
