@@ -6,6 +6,7 @@ description: Coputer Science and Programming. School to University level.
 nav: true
 ---
 
+<a href="#german" id="link-to-german">German below</a>
 <script type="text/javascript">
 let showLinkFunc = () => {
         if ($("body").height() > $(window).height()) {
@@ -17,8 +18,6 @@ let showLinkFunc = () => {
 showLinkFunc();
 $(document).resize(showLinkFunc);
 </script>
-
-<a href="#german" id="link-to-german">German below</a>
 
 Programming is fun. Programming together is even better. You are new to programming and want to kickstart learning? 
 You learn computer science in school or university and want to boost your grades? 
