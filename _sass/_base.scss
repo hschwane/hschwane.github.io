@@ -428,3 +428,9 @@ html.transition *:after {
   transition: all 750ms !important;
   transition-delay: 0 !important;
 }
+
+// fix hr tag
+hr {
+  background-color: var(--global-text-color);
+  border-color: var(--global-text-color);
+}
