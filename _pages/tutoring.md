@@ -2,12 +2,12 @@
 layout: page
 permalink: /tutoring/
 title: tutoring
-description: Coputer Science and Programming. School to University level.
+description: Computer Science and Programming. School to University level.
 nav: true
 ---
 
 <a href="#german" class="hide-if-scrollbar">Deutscher Text unten</a>
-
+#### english
 Programming is fun. Programming together is even better. You are new to programming and want to kickstart learning? 
 You learn computer science in school or university and want to boost your grades? 
 You want some guidance getting into advanced topics, like computer graphics, gpu programming or computer simulation?  
@@ -20,6 +20,7 @@ If you are interested in tutoring, send me an [email](mailto:{{ site.email }}). 
 
 ---
 <a name="german"></a>
+#### deutsch
 Programmieren macht Spaß. Gemeinsam programmieren ist noch besser.
 Du bist neu beim Programmieren und suchst einen schnellen start?
 Du lernst Informatik in der Schule oder im Studium und möchtest deine Noten verbessern?
