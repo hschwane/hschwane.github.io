@@ -7,13 +7,15 @@ nav: true
 ---
 
 <script type="text/javascript">
-$(document).ready(function() {
-    if ($("body").height() > $(window).height()) {
-        document.getElementById("link-to-german").style.visibility = "visible";
-    } else {
-        document.getElementById("link-to-german").style.visibility = "hidden";
-    }
-});
+let showLinkFunc = () => {
+        if ($("body").height() > $(window).height()) {
+            document.getElementById("link-to-german").style.visibility = "visible";
+        } else {
+            document.getElementById("link-to-german").style.visibility = "hidden";
+        }
+    };
+showLinkFunc();
+$(document).resize(showLinkFunc);
 </script>
 
 <a href="#german" id="link-to-german">German below</a>
