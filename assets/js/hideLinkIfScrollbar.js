@@ -11,7 +11,6 @@ let showLinkFunc = function() {
       } 
     }
   }
-  console.log("blub");
 };
 
 $(document).ready(showLinkFunc);
