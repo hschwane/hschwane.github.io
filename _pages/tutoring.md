@@ -6,7 +6,7 @@ description: Coputer Science and Programming. School to University level.
 nav: true
 ---
 
-<a href="#german" id="link-to-german">German below</a>
+<a href="#german" id="link-to-german">Deutsche Version unten</a>
 <script type="text/javascript">
 let showLinkFunc = function() {
         if ($("body").height() > $(window).height()) {
