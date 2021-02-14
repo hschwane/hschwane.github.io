@@ -1,8 +1,11 @@
 let showLinkFunc = function() {
-  if ($("body").height() > $(window).height()) {
-    document.getElementsById("hide-if-scrollbar").style.visibility = "visible";
-  } else {
-    document.getElementsById("hide-if-scrollbar").style.visibility = "hidden";
+  var elm = document.getElementsByClassName("hide-if-scrollbar");
+  if(elm) {
+    if ($("body").height() > $(window).height()) {
+      elm.style.visibility = "visible";
+    } else {
+      elm.style.visibility = "hidden";
+    }
   }
   console.log("blub");
 };
