@@ -3,11 +3,11 @@ let showLinkFunc = function() {
   if(elm) {
     if ($("body").height() > $(window).height()) {
       for (i = 0; i < elm.length; i++) {
-        elm[i].style.visibility = "visible";
+        elm[i].style.display = "block";
       } 
     } else {
       for (i = 0; i < elm.length; i++) {
-        elm[i].style.visibility = "hidden";
+        elm[i].style.display = "none";
       } 
     }
   }
