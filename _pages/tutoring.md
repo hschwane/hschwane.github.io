@@ -6,6 +6,15 @@ description: Coputer Science and Programming. School to University level.
 nav: true
 ---
 
+<script type="text/javascript">
+$(document).ready(function() {
+    // Check if body height is higher than window height :)
+    if ($("body").height() > $(window).height()) {
+        alert("Vertical Scrollbar! D:");
+    }
+}
+</script>
+
 [German below](#german)
 
 Programming is fun. Programming together is even better. 
