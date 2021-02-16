@@ -1,22 +1,22 @@
 ---
 layout: page
 title: GraSPH
-description: Interactive simulation of star formation
-img: /assets/img/GraSPH/01.png
+description: Interactive Star Formation simulation
+img: /assets/img/GraSPH/preview.png
 importance: 1
 ---
 
 For my bachelor thesis, I developed a code to simulate star formation interactively. 
 It simulates a gas cloud using [Smoothed Particle Hydrodynamics](https://en.wikipedia.org/wiki/Smoothed-particle_hydrodynamics). 
-All particles attract each other by gravity. To reach interactive speeds with a simulation model form astrophiscs, most calculations are performed on the GPU.
+All particles attract each other by gravity. To reach interactive speeds with a simulation model form astrophysics, most calculations are performed on the GPU.
 I used OpenGL compute shader for the simulation and the OpenGL rendering pipeline for visualization. In addition many parameters exist to tune accuracy against speed. Since the simulation is rendered in 3D while it is running, the user can fly around the gas cloud using the W,A,S,D-keys, similar to a video game. 
 
-You can download my thesis [here](https://kola.opus.hbz-nrw.de/frontdoor/index/index/docId/1638), to read up on the deatail. It is however written in german.
+You can download my thesis [here](https://kola.opus.hbz-nrw.de/frontdoor/index/index/docId/1638), and dive into the deatail. It is however written in german.
 
-If you want to try the full experience, you can download the code from the [github repository](https://github.com/hschwane/GraSPH) and compile it for your machine. 
-Alternatively check out this youtube video, which was screen-captured on a consumer grade laptop:
-<div><div cookie-consent="functionality" style="position:relative; padding-top:56.25%; background-color: grey;">
-    <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://www.youtube-nocookie.com/embed/PUyE3j0aoMw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+If you want to try the full experience, I recommend you to download the code from the [github repository](https://github.com/hschwane/GraSPH) 
+and compile it for your machine. Alternatively, check out this youtube video, which was screen-captured on a consumer grade laptop:
+<div><div style="position:relative; padding-top:56.25%; background-color: grey;">
+    <iframe cookie-consent="functionality" style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://www.youtube-nocookie.com/embed/PUyE3j0aoMw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     You have to enable functional cookies in your cookie preferences below, to view the youtube video. Or view on <a href="https://youtu.be/PUyE3j0aoMw">youtube</a>
 </div></div>
 
@@ -62,5 +62,5 @@ While it could never rival supercomputer simulations desgined for pyhsics simula
     </div>
 </div>
 <div class="caption">
-    Here two protostars move very close to each other. The form a binary system, orbiting each other. The system is not stable and the stars move closer until they finally merge.
+    Here two protostars move very close to each other. They form a binary system, orbiting each other. The system is not stable and the stars move closer until they finally merge.
 </div>
