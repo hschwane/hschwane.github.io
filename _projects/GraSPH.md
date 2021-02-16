@@ -2,7 +2,7 @@
 layout: page
 title: GraSPH
 description: Interactive simulation of star formation
-img: 
+img: /assets/img/GraSPH/01.png
 importance: 1
 ---
 
@@ -25,13 +25,13 @@ While it could never rival supercomputer simulations desgined for pyhsics simula
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/GraSPH/06.jpg' | relative_url }}" alt="" title="star formation simulation"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/GraSPH/06.png' | relative_url }}" alt="" title="star formation simulation"/>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/GraSPH/07.jpg' | relative_url }}" alt="" title="star formation simulation"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/GraSPH/07.png' | relative_url }}" alt="" title="star formation simulation"/>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/GraSPH/08.jpg' | relative_url }}" alt="" title="star formation simulation"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/GraSPH/08.png' | relative_url }}" alt="" title="star formation simulation"/>
     </div>
 </div>
 <div class="caption">
@@ -39,7 +39,7 @@ While it could never rival supercomputer simulations desgined for pyhsics simula
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/GraSPH/01.jpg' | relative_url }}" alt="" title="different zoom levels"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/GraSPH/01.png' | relative_url }}" alt="" title="different zoom levels"/>
     </div>
 </div>
 <div class="caption">
@@ -48,16 +48,16 @@ While it could never rival supercomputer simulations desgined for pyhsics simula
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/GraSPH/02.jpg' | relative_url }}" alt="" title="two protostars merging"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/GraSPH/02.png' | relative_url }}" alt="" title="two protostars merging"/>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/GraSPH/03.jpg' | relative_url }}" alt="" title="two protostars merging"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/GraSPH/03.png' | relative_url }}" alt="" title="two protostars merging"/>
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/GraSPH/04.jpg' | relative_url }}" alt="" title="two protostars merging"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/GraSPH/04.png' | relative_url }}" alt="" title="two protostars merging"/>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/GraSPH/05.jpg' | relative_url }}" alt="" title="two protostars merging"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/GraSPH/05.png' | relative_url }}" alt="" title="two protostars merging"/>
     </div>
 </div>
 <div class="caption">
