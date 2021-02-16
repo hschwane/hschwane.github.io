@@ -16,7 +16,7 @@ You can download my thesis [here](https://kola.opus.hbz-nrw.de/frontdoor/index/i
 
 If you want to try the full experience, you can download the code from the [github repository](https://github.com/hschwane/GraSPH) and compile it for your machine. 
 Alternatively check out this youtube video, which was screen-captured on a consumer grade laptop:
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PUyE3j0aoMw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="position: relative; height: 100%; width: 100%;" src="https://www.youtube-nocookie.com/embed/PUyE3j0aoMw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <div class="row">
