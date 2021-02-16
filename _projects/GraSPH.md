@@ -2,7 +2,7 @@
 layout: page
 title: GraSPH
 description: Interactive simulation of star formation
-img: /assets/img/01.png
+img: /assets/img/GraSPH/01.png
 importance: 1
 ---
 
@@ -48,16 +48,16 @@ While it could never rival supercomputer simulations desgined for pyhsics simula
 </div>
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-2 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/GraSPH/02.png' | relative_url }}" alt="" title="two protostars merging"/>
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-2 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/GraSPH/03.png' | relative_url }}" alt="" title="two protostars merging"/>
     </div>
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-2 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/GraSPH/04.png' | relative_url }}" alt="" title="two protostars merging"/>
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-2 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/GraSPH/05.png' | relative_url }}" alt="" title="two protostars merging"/>
     </div>
 </div>
