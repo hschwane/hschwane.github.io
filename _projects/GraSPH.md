@@ -17,7 +17,9 @@ If you want to try the full experience, you can download the code from the [gith
 Alternatively check out this youtube video, which was screen-captured on a consumer grade laptop:
 <iframe style="width: 100%; padding-top: 56.25%;" src="https://www.youtube-nocookie.com/embed/PUyE3j0aoMw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-After finishing my thesis, I continued working on the code as part of my job as a research assistant at the [Max Planck Institute for Astronomy](http://www.mpia.de/en). It extended to simulate planet formation and became [GraSPH2](/projects/GraSPH2). While it could never rival supercomputer simulations desgined for pyhsics simulation in resolution or accuracy, it was still verry useful to our research group. 
+After finishing my thesis, I continued working on the code as part of my job as a research assistant at the [Max Planck Institute for Astronomy](http://www.mpia.de/en). It extended to simulate planet formation and became [GraSPH2](/projects/GraSPH2). 
+
+While it could never rival supercomputer simulations desgined for pyhsics simulation in resolution or accuracy, it was still verry useful to our research group. It was quick to change settings or implement a new feature and then run a simulation with immedite feedback. The quick turn-around time allows what I call rapid prototyping for scientific simulations. It resulted in the testing of many different settings over the course of one creative, but verry late evening. Probably best described as the physics equivalent to a hackathon. Something not possible at all with a simulation code, that needs a few houres or days to run in a remote supercomputing center 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
