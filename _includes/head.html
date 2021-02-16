@@ -58,14 +58,14 @@
 <!-- include scripts that use cokies and tracking stuff here as text/plain -->
 <script type="text/plain" cookie-consent="tracking" src="{{ '/assets/js/analytics.js' | relative_url }}"></script>
 
-<!-- disqus for comments -->
+<!-- disqus for comments 
 <script type="text/plain" cookie-consent="functionality"> 
   if (typeof loadDisqus === "function") { 
     loadDisqus();
   }
-</script>
+</script> -->
 
-<!-- stroe theme over multiple sessions -->
+<!-- store theme over multiple sessions -->
 <script type="text/plain" cookie-consent="functionality"> 
 var allowThemeStored = true;
 localStorage.setItem("theme",sessionStorage.getItem("theme"));
