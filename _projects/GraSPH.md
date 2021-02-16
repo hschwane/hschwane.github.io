@@ -15,8 +15,9 @@ You can download my thesis [here](https://kola.opus.hbz-nrw.de/frontdoor/index/i
 
 If you want to try the full experience, you can download the code from the [github repository](https://github.com/hschwane/GraSPH) and compile it for your machine. 
 Alternatively check out this youtube video, which was screen-captured on a consumer grade laptop:
-<div><div cookie-consent="functionality" style="padding-top: 56.25%;background-color: yellow;">
+<div><div cookie-consent="functionality" style="position:relative; padding-top:56.25%; background-color: grey;">
     <iframe style="width: 100%; height: 100%;" src="https://www.youtube-nocookie.com/embed/PUyE3j0aoMw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    You have to enable functional cookies in your cookie preferences below, to view the youtube video. Or view on [youtube](https://youtu.be/PUyE3j0aoMw)
 </div></div>
 
 After finishing my thesis, I continued working on the code as part of my job as a research assistant at the [Max Planck Institute for Astronomy](http://www.mpia.de/en). It extended to simulate planet formation and became [GraSPH2](/projects/GraSPH). 
