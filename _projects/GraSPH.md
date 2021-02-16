@@ -9,15 +9,15 @@ importance: 1
 For my bachelor thesis, I developed a code to simulate star formation interactively. 
 It simulates a gas cloud using [Smoothed Particle Hydrodynamics](https://en.wikipedia.org/wiki/Smoothed-particle_hydrodynamics). 
 All particles attract each other by gravity. To reach interactive speeds with a simulation model form astrophiscs, most calculations are performed on the GPU.
-I used OpenGL compute shader for the simulation and the OpenGL rendering pipeline for visualization. In addition many parameters exist to tune accuracy against speed.
-Since the simulation is rendered in 3D while it is running, the user can fly around the gas cloud using the W,A,S,D-keys, similar to a video game. 
+I used OpenGL compute shader for the simulation and the OpenGL rendering pipeline for visualization. In addition many parameters exist to tune accuracy against speed. Since the simulation is rendered in 3D while it is running, the user can fly around the gas cloud using the W,A,S,D-keys, similar to a video game. 
 
 You can download my thesis [here](https://kola.opus.hbz-nrw.de/frontdoor/index/index/docId/1638), to read up on the deatail. It is however written in german.
 
 If you want to try the full experience, you can download the code from the [github repository](https://github.com/hschwane/GraSPH) and compile it for your machine. 
 Alternatively check out this youtube video, which was screen-captured on a consumer grade laptop:
-<iframe style="position: relative; height: 100%; width: 100%;" src="https://www.youtube-nocookie.com/embed/PUyE3j0aoMw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="width: 100%;" src="https://www.youtube-nocookie.com/embed/PUyE3j0aoMw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+After finishing my thesis, I continued working on the code as part of my job as a research assistant at the [Max Planck Institute for Astronomy](http://www.mpia.de/en). It was portet to extended to simulate planet formation and became [GraSPH2](/projects/GraSPH2) 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
