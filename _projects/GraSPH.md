@@ -16,13 +16,15 @@ You can download my thesis [here](https://kola.opus.hbz-nrw.de/frontdoor/index/i
 If you want to try the full experience, I recommend you to download the code from the [github repository](https://github.com/hschwane/GraSPH) 
 and compile it for your machine. Alternatively, check out this youtube video, which was screen-captured on a consumer grade laptop:
 
-<div><div id="yt-wrap" style="position:relative; padding-top:56.25%; background-color: lightgray;">
+<div>
+<div id="yt-wrap" style="position:relative; padding-top:56.25%; background-color: lightgray;">
 <div style="  display:flex; justify-content:center; align-items:center;">
 <div style="color:black>
 Please enable functional cookies in the cookie preferences (botom of the page), to view the youtube video. Or view on <a href="https://youtu.be/PUyE3j0aoMw">youtube</a>.
 </div>
 </div>
-</div></div>
+</div>
+</div>
 
 <script type="text/plain" cookie-consent="functionality"> 
 var obj = {"video": {"value": "<iframe style='position:absolute;top:0;left:0;width:100%;height:100%;' src='https://www.youtube-nocookie.com/embed/PUyE3j0aoMw' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"}};
