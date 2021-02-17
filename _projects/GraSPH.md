@@ -20,7 +20,7 @@ and compile it for your machine. Alternatively, check out this youtube video, wh
     <div style="  display:flex; justify-content:center; align-items:center;">
         <p style="color:black>
             Please enable functional cookies in the cookie preferences (botom of the page), to view the youtube video. Or view on <a href="https://youtu.be/PUyE3j0aoMw">youtube</a>.
-        </p
+        </p>
     </div>
 </div></div>
 
