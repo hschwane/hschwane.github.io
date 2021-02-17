@@ -32,7 +32,7 @@ $("#yt-wrap").html(obj.video.value);
 <br>
 After finishing my thesis, I continued working on the code as part of my job as a research assistant at the [Max Planck Institute for Astronomy](http://www.mpia.de/en). It extended to simulate planet formation and became [GraSPH2](/projects/GraSPH). 
 
-While it could never rival supercomputer simulations desgined for pyhsics simulation in resolution or accuracy, it was still verry useful to our research group. It was quick to change settings or implement a new feature and then run a simulation with immedite feedback. The quick turn-around time allows what I call rapid prototyping for scientific simulations. It resulted in the testing of many different settings over the course of one creative, but verry late evening. Probably best described as the physics equivalent to a hackathon. Something not possible at all with a simulation code, that needs a few houres or days to run in a remote supercomputing center 
+While it could never rival supercomputer simulations desgined for pyhsics simulation in resolution or accuracy, it was still very useful to our research group. It was quick to change settings or implement a new feature and then run a simulation with immedite feedback. The quick turn-around time allows what I call rapid prototyping for scientific simulations. It resulted in the testing of many different settings over the course of a creative and very late evening. Probably best described as the physics equivalent to a hackathon. Something not possible at all with a simulation code, that needs a few houres or days to run in a remote supercomputing center 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
