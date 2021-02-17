@@ -22,6 +22,7 @@ and compile it for your machine. Alternatively, check out this youtube video, wh
     <p>
         Please enable functional cookies in the cookie preferences (botom of the page), to view the youtube video. Or view on <a href="https://youtu.be/PUyE3j0aoMw">youtube</a>
     </p>
+    </div>
 </div></div>
 
 <script type="text/plain" cookie-consent="functionality"> 
