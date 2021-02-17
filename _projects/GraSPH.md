@@ -24,6 +24,7 @@ and compile it for your machine. Alternatively, check out this youtube video, wh
 var obj = {"video": {"value": "<iframe cookie-consent='functionality' style='position:absolute;top:0;left:0;width:100%;height:100%;' src='https://www.youtube-nocookie.com/embed/PUyE3j0aoMw' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"}};
 
 $("#yt-wrap").html(obj.video.value);
+console.log("blub")
 </script>
 
 After finishing my thesis, I continued working on the code as part of my job as a research assistant at the [Max Planck Institute for Astronomy](http://www.mpia.de/en). It extended to simulate planet formation and became [GraSPH2](/projects/GraSPH). 
