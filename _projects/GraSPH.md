@@ -28,7 +28,7 @@ and compile it for your machine. Alternatively, check out this youtube video, wh
 <script type="text/plain" cookie-consent="functionality"> 
 var obj = {"video": {
 "value": "<iframe cookie-consent="functionality" style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://www.youtube-nocookie.com/embed/PUyE3j0aoMw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>"
-}}
+}};
 
 $("#yt-wrap").html(obj.video.value);
 </script>
