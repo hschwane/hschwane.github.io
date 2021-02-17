@@ -19,7 +19,7 @@ and compile it for your machine. Alternatively, check out this youtube video, wh
 <div>
 <div id="yt-wrap" style="position:relative; padding-top:56.25%; background-color: lightgray;">
 <div style="text-align:center; position:absolute;top:0;left:0;width:100%;height:100%; display:flex; justify-content:center; align-items:center;">
-<p style="color:black;">Please enable functional cookies in the cookie preferences (botom of the page), to view the youtube video. Or view on <a href="https://youtu.be/PUyE3j0aoMw">youtube</a>.</p>
+<p style="color:black;">Please enable functional cookies in the cookie preferences (botom of the page),<br> to view the video. Or view on <a href="https://youtu.be/PUyE3j0aoMw">youtube</a>.</p>
 </div>
 </div>
 </div>
