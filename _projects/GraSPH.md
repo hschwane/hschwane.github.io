@@ -18,8 +18,8 @@ and compile it for your machine. Alternatively, check out this youtube video, wh
 
 <div>
 <div id="yt-wrap" style="position:relative; padding-top:56.25%; background-color: lightgray;">
-<div style="width:100%; height:100%; display:flex; justify-content:center; align-items:center;">
-<p> Blub </p>
+<div style="position:absolute;top:0;left:0;width:100%;height:100%; display:flex; justify-content:center; align-items:center;">
+<p style="color:black;"> Blub </p>
 </div>
 </div>
 </div>
