@@ -18,12 +18,13 @@ and compile it for your machine. Alternatively, check out this youtube video, wh
 
 <div><div id="yt-wrap" style="position:relative; padding-top:56.25%; background-color: lightgray;">
     
-    <div style="text-align:center; vertical-align:middle; line-height:100%;">
-    <p>
-        Please enable functional cookies in the cookie preferences (botom of the page), to view the youtube video. Or view on <a href="https://youtu.be/PUyE3j0aoMw">youtube</a>
-    </p>
-    </div>
 </div></div>
+
+<script type="text/javascript"> 
+var obj = {"video": {"value": "<iframe cookie-consent='functionality' style='position:absolute;top:0;left:0;width:100%;height:100%;' src='https://www.youtube-nocookie.com/embed/PUyE3j0aoMw' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"}};
+
+$("#yt-wrap").html(obj.video.value);
+</script>
 
 After finishing my thesis, I continued working on the code as part of my job as a research assistant at the [Max Planck Institute for Astronomy](http://www.mpia.de/en). It extended to simulate planet formation and became [GraSPH2](/projects/GraSPH). 
 
