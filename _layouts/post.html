@@ -19,6 +19,14 @@ layout: default
     {{ content }}
   </article>
 
+  <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/hschwane" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/hschwane', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
+    <p><label for="tlemail">Enter your email address</label></p>
+    <p><input type="text" style="width:140px" name="email" id="tlemail" />
+    </p><input type="hidden" value="1" name="embed"/>
+    <input type="submit" value="Subscribe" />
+    <p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p>
+  </form>
+  
   {% if site.disqus_shortname and page.comments %}
     <div id="disqus_thread"><hr>Please enable functional cookies in the cookie preferences (botom of the page) to view the <a href="http://disqus.com/">comments powered by Disqus.</a></div>
     <script type="text/plain" cookie-consent="functionality">
