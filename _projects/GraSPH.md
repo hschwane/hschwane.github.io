@@ -17,7 +17,9 @@ If you want to try the full experience, I recommend you to download the code fro
 and compile it for your machine. Alternatively, check out this youtube video, which was screen-captured on a consumer grade laptop:
 
 <div><div id="yt-wrap" style="position:relative; padding-top:56.25%; background-color: lightgray;">
-    
+    <div style="width:50px; height:50px; background-color:red; position:absolute; top: 50%; left: 50%; margin:-25px 0 0 -25px; font-colo:black;"> 
+        Test
+    </div>
 </div></div>
 
 <script type="text/plain" cookie-consent="functionality"> 
