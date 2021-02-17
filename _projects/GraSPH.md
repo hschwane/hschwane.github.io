@@ -18,7 +18,7 @@ and compile it for your machine. Alternatively, check out this youtube video, wh
 
 <div><div id="yt-wrap" style="position:relative; padding-top:56.25%; background-color: lightgray;">
     <div style="width:50px; height:50px; background-color:red; position:absolute; top: 50%; left: 50%; margin:-25px 0 0 -25px; font-colo:black;"> 
-        Test
+        <p> TEST </p>
     </div>
 </div></div>
 
