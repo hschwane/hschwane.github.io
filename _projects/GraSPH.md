@@ -6,6 +6,8 @@ img: /assets/img/GraSPH/preview.png
 importance: 1
 ---
 
+[view on github](https://github.com/hschwane/MiniballCuda)
+
 For my bachelor thesis, I developed a code to simulate star formation interactively. 
 It simulates a gas cloud using [Smoothed Particle Hydrodynamics](https://en.wikipedia.org/wiki/Smoothed-particle_hydrodynamics). 
 All particles attract each other by gravity. To reach interactive speeds with a simulation model form astrophysics, most calculations are performed on the GPU.
