@@ -6,7 +6,7 @@ description: Why-asker &bull; Head of crazy ideas &bull; Scientist.
 
 profile:
   align: right
-  image: 13662320.png
+  image: me.JPG
   address: >
     <div align='center'><p><i class="fas fa-map-marker-alt"></i> Germany</p></div>
 
