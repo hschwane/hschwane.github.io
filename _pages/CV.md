@@ -9,22 +9,22 @@ nav: true
 ## Education
 
 <div class="row">
-    <div class="col-md-1">
-        2018 - now
-    </div>
-    <div class="col-11">
-        **M.Sc Computational Visualistics**, University of Koblenz
-    </div>
+<div class="col-md-2">
+2018 - now
 </div>
-<br>
+<div class="col-10">
+**M.Sc Computational Visualistics**, University of Koblenz
+</div>
+</div>
+
 <div class="row">
-    <div class="col-md-1">
-        2014 - 2018
-    </div>
-    <div class="col-11">
-        **B.Sc. Computational Visualistics**, University of Koblenz<br>
-        Thesis: [*Simulating star formation*](https://kola.opus.hbz-nrw.de/frontdoor/index/index/year/2018/docId/1638) 
-    </div>
+<div class="col-md-2">
+2014 - 2018
+</div>
+<div class="col-10">
+**B.Sc. Computational Visualistics**, University of Koblenz<br>
+Thesis: [*Simulating star formation*](https://kola.opus.hbz-nrw.de/frontdoor/index/index/year/2018/docId/1638) 
+</div>
 </div>
 
 
