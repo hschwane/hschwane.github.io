@@ -33,7 +33,7 @@ nav: true
         2018,
     </div>
     <div class="col-md-6">
-            2nd place for the best student project at University Koblenz with [GraSPH](/projects/grasph) 
+            2nd place for the best student project at University Koblenz with [GraSPH](/projects/GraSPH/) 
     </div>
 </div>
 
