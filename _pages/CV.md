@@ -16,7 +16,7 @@ nav: true
         <b>M.Sc Computational Visualistics</b>, University of Koblenz
     </div>
 </div>
-<div style="height: 5pt"></div>
+<div style="height: 3pt"></div>
 <div class="row">
     <div class="col-2">
         2014 - 2018
@@ -42,7 +42,7 @@ nav: true
         scholorship to participate in the <a href="http://www.ihpcss.org/">International High Performance Computing Summer School</A> in Kobe.
     </div>
 </div>
-<div style="height: 5pt"></div>
+<div style="height: 3pt"></div>
 <div class="row">
     <div class="col-1">
         2018
@@ -51,7 +51,7 @@ nav: true
         2nd place for the best student project at University Koblenz with <a href="/projects/GraSPH/">GraSPH</a> 
     </div>
 </div>
-<div style="height: 5pt"></div>
+<div style="height:3pt"></div>
 <div class="row">
     <div class="col-1">
         2013
