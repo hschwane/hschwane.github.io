@@ -9,9 +9,26 @@ nav: true
 
 ## Education
 
-2018 - now  **M.Sc Computational Visualistics**, University of Koblenz <br>
-2014 - 2018 **B.Sc. Computational Visualistics**, University of Koblenz
-            Thesis: [*Simulating star formation*](https://kola.opus.hbz-nrw.de/frontdoor/index/index/year/2018/docId/1638) 
+<div class="row">
+    <div class="col-md-1">
+        2018 - now
+    </div>
+    <div class="col-11">
+        **M.Sc Computational Visualistics**, University of Koblenz
+    </div>
+</div>
+<br>
+<div class="row">
+    <div class="col-md-1">
+        2014 - 2018
+    </div>
+    <div class="col-11">
+         **B.Sc. Computational Visualistics**, University of Koblenz<br>
+         Thesis: [*Simulating star formation*](https://kola.opus.hbz-nrw.de/frontdoor/index/index/year/2018/docId/1638) 
+    </div>
+</div>
+
+
 
 ## Professional Experience
 
@@ -27,7 +44,7 @@ nav: true
             scholorship to participate in the [International High Performance Computing Summer School](http://www.ihpcss.org/) in Kobe.
     </div>
 </div>
-
+<br>
 <div class="row">
     <div class="col-1">
         2018,
@@ -36,7 +53,7 @@ nav: true
             2nd place for the best student project at University Koblenz with [GraSPH](/projects/GraSPH/) 
     </div>
 </div>
-
+<br>
 <div class="row">
     <div class="col-md-1">
         2013,
