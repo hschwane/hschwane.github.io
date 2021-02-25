@@ -35,7 +35,7 @@ Thesis: [*Simulating star formation*](https://kola.opus.hbz-nrw.de/frontdoor/ind
 ## Scholorships and Awards
 
 <div class="row">
-    <div class="col-md-1">
+    <div class="col-1">
         2019
     </div>
     <div class="col-11">
@@ -47,16 +47,16 @@ Thesis: [*Simulating star formation*](https://kola.opus.hbz-nrw.de/frontdoor/ind
     <div class="col-1">
         2018
     </div>
-    <div class="col-md-11">
+    <div class="col-11">
         2nd place for the best student project at University Koblenz with <a href="/projects/GraSPH/">GraSPH</a> 
     </div>
 </div>
 
 <div class="row">
-    <div class="col-md-1">
+    <div class="col-1">
         2013
     </div>
-    <div class="col-md-11">
+    <div class="col-11">
         <a href="https://en.wikipedia.org/wiki/German_Physical_Society">DPG</a> recognition for very good performance in physics
     </div>
 </div>
