@@ -9,7 +9,7 @@ nav: true
 ## Education
 
 <div class="row">
-<div class="col-md-2">
+<div class="col-2">
 2018 - now
 </div>
 <div class="col-10">
@@ -18,7 +18,7 @@ nav: true
 </div>
 
 <div class="row">
-<div class="col-md-2">
+<div class="col-2">
 2014 - 2018
 </div>
 <div class="col-10">
