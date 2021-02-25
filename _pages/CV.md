@@ -13,7 +13,7 @@ nav: true
         2018 - now
     </div>
     <div class="col-11" markdown="1">
-**M.Sc Computational Visualistics**, University of Koblenz
+        **M.Sc Computational Visualistics**, University of Koblenz
     </div>
 </div>
 <br>
@@ -22,8 +22,8 @@ nav: true
         2014 - 2018
     </div>
     <div class="col-11">
-**B.Sc. Computational Visualistics**, University of Koblenz<br>
-Thesis: [*Simulating star formation*](https://kola.opus.hbz-nrw.de/frontdoor/index/index/year/2018/docId/1638) 
+        **B.Sc. Computational Visualistics**, University of Koblenz<br>
+        Thesis: [*Simulating star formation*](https://kola.opus.hbz-nrw.de/frontdoor/index/index/year/2018/docId/1638) 
     </div>
 </div>
 
@@ -39,7 +39,7 @@ Thesis: [*Simulating star formation*](https://kola.opus.hbz-nrw.de/frontdoor/ind
         2019
     </div>
     <div class="col-11" markdown="1">
-scholorship to participate in the [International High Performance Computing Summer School](http://www.ihpcss.org/) in Kobe.
+        scholorship to participate in the [International High Performance Computing Summer School](http://www.ihpcss.org/) in Kobe.
     </div>
 </div>
 <br>
@@ -48,7 +48,7 @@ scholorship to participate in the [International High Performance Computing Summ
         2018
     </div>
     <div class="col-md-11" markdown="1">
-2nd place for the best student project at University Koblenz with [GraSPH](/projects/GraSPH/) 
+        2nd place for the best student project at University Koblenz with [GraSPH](/projects/GraSPH/) 
     </div>
 </div>
 <br>
@@ -57,6 +57,6 @@ scholorship to participate in the [International High Performance Computing Summ
         2013
     </div>
     <div class="col-md-11" markdown="1">
-[DPG](https://en.wikipedia.org/wiki/German_Physical_Society) recognition for very good performance in physics
+        [DPG](https://en.wikipedia.org/wiki/German_Physical_Society) recognition for very good performance in physics
     </div>
 </div>
