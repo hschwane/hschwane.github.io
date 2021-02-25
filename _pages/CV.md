@@ -18,13 +18,13 @@ nav: true
 </div>
 <br>
 <div class="row">
-    <div class="col-md-1">
-        2014 - 2018
-    </div>
-    <div class="col-11">
-        **B.Sc. Computational Visualistics**, University of Koblenz<br>
-        Thesis: [*Simulating star formation*](https://kola.opus.hbz-nrw.de/frontdoor/index/index/year/2018/docId/1638) 
-    </div>
+<div class="col-md-1">
+2014 - 2018
+</div>
+<div class="col-11" markdown="1">
+**B.Sc. Computational Visualistics**, University of Koblenz<br>
+Thesis: [*Simulating star formation*](https://kola.opus.hbz-nrw.de/frontdoor/index/index/year/2018/docId/1638) 
+</div>
 </div>
 
 
