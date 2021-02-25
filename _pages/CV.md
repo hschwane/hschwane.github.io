@@ -20,7 +20,7 @@ nav: true
 ## Scholorships and Awards
 
 <div class="row">
-    <div class="col-md-6">
+    <div class="col-md-1">
         2019,
     </div>
     <div class="col-md-6">
@@ -29,7 +29,7 @@ nav: true
 </div>
 
 <div class="row">
-    <div class="col-md-6">
+    <div class="col-md-1">
         2018,
     </div>
     <div class="col-md-6">
@@ -38,7 +38,7 @@ nav: true
 </div>
 
 <div class="row">
-    <div class="col-md-6">
+    <div class="col-md-1">
         2013,
     </div>
     <div class="col-md-6">
