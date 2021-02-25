@@ -23,7 +23,7 @@ nav: true
     </div>
     <div class="col-10">
         <b>B.Sc. Computational Visualistics</b>, University of Koblenz<br>
-        Thesis: <a hraf="https://kola.opus.hbz-nrw.de/frontdoor/index/index/year/2018/docId/1638">Simulating star formation</a> 
+        Thesis: <a href="https://kola.opus.hbz-nrw.de/frontdoor/index/index/year/2018/docId/1638"><i>Simulating star formation</i></a> 
     </div>
 </div>
 
