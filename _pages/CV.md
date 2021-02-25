@@ -9,7 +9,7 @@ nav: true
 
 ## Education
 
-2018 - now M.Sc Computational Visualistics, University of Koblenz
+2018 - now  **M.Sc Computational Visualistics**, University of Koblenz </br>
 2014 - 2018 **B.Sc. Computational Visualistics**, University of Koblenz
             Thesis: [*Simulating star formation*](https://kola.opus.hbz-nrw.de/frontdoor/index/index/year/2018/docId/1638) 
 
