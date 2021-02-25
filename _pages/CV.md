@@ -19,6 +19,29 @@ nav: true
 
 ## Scholorships and Awards
 
-- 2019, scholorship to participate in the [International High Performance Computing Summer School](http://www.ihpcss.org/) in Kobe.
-- 2018, 2nd place for the best student project at University Koblenz with [GraSPH](/projects/grasph) 
-- 2013, [DPG](https://en.wikipedia.org/wiki/German_Physical_Society) recognition for very good performance in physics
+<div class="row">
+    <div class="col-md-6">
+        2019,
+    </div>
+    <div class="col-md-6">
+            scholorship to participate in the [International High Performance Computing Summer School](http://www.ihpcss.org/) in Kobe.
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-6">
+        2018,
+    </div>
+    <div class="col-md-6">
+            2nd place for the best student project at University Koblenz with [GraSPH](/projects/grasph) 
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-6">
+        2013,
+    </div>
+    <div class="col-md-6">
+            [DPG](https://en.wikipedia.org/wiki/German_Physical_Society) recognition for very good performance in physics
+    </div>
+</div>
