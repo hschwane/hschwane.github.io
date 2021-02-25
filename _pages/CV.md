@@ -9,22 +9,22 @@ nav: true
 ## Education
 
 <div class="row">
-<div class="col-2">
-2018 - now
+    <div class="col-2">
+        2018 - now
+    </div>
+    <div class="col-10">
+        <b>M.Sc Computational Visualistics</b>, University of Koblenz
+    </div>
 </div>
-<div class="col-10">
-**M.Sc Computational Visualistics**, University of Koblenz
-</div>
-</div>
-
+<div style="height: 5pt"></div>
 <div class="row">
-<div class="col-2">
-2014 - 2018
-</div>
-<div class="col-10">
-**B.Sc. Computational Visualistics**, University of Koblenz<br>
-Thesis: [*Simulating star formation*](https://kola.opus.hbz-nrw.de/frontdoor/index/index/year/2018/docId/1638) 
-</div>
+    <div class="col-2">
+        2014 - 2018
+    </div>
+    <div class="col-10">
+        <b>B.Sc. Computational Visualistics</b>, University of Koblenz<br>
+        Thesis: <a hraf="https://kola.opus.hbz-nrw.de/frontdoor/index/index/year/2018/docId/1638">Simulating star formation</a> 
+    </div>
 </div>
 
 
@@ -42,7 +42,7 @@ Thesis: [*Simulating star formation*](https://kola.opus.hbz-nrw.de/frontdoor/ind
         scholorship to participate in the <a href="http://www.ihpcss.org/">International High Performance Computing Summer School</A> in Kobe.
     </div>
 </div>
-
+<div style="height: 5pt"></div>
 <div class="row">
     <div class="col-1">
         2018
@@ -51,7 +51,7 @@ Thesis: [*Simulating star formation*](https://kola.opus.hbz-nrw.de/frontdoor/ind
         2nd place for the best student project at University Koblenz with <a href="/projects/GraSPH/">GraSPH</a> 
     </div>
 </div>
-
+<div style="height: 5pt"></div>
 <div class="row">
     <div class="col-1">
         2013
