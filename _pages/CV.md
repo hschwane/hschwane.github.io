@@ -28,7 +28,6 @@ nav: true
     </div>
 </div>
 
-
 ## Professional Experience
 
 ## Publications and Talks
