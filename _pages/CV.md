@@ -8,7 +8,7 @@ nav: true
 
 <a href="">Download CV</a> -- <a href="">Download Resume</a> 
 
-<div style="height:5pt"></div>
+<div style="height:10pt"></div>
 ## Education
 ---
 
@@ -32,11 +32,11 @@ nav: true
     </div>
 </div>
 
-<div style="height:10pt"></div>
+<div style="height:15pt"></div>
 ## Professional Experience
 ---
 
-<div style="height:10pt"></div>
+<div style="height:15pt"></div>
 ## Publications and Talks
 ---
 
@@ -61,7 +61,7 @@ nav: true
     </div>
 </div>
 
-<div style="height:10pt"></div>
+<div style="height:15pt"></div>
 ## Scholorships and Awards
 ---
 
