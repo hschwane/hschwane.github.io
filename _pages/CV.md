@@ -6,7 +6,7 @@ description: Curriculum Vitae
 nav: true
 ---
 
-<a href="">Download CV</a> -- <a href="">Download Resume</a> 
+<!-- <a href="">Download CV</a> -- <a href="">Download Resume</a>  -->
 
 <div style="height:10pt"></div>
 ## Education
