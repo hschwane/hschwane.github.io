@@ -6,7 +6,7 @@ description: My CV
 nav: true
 ---
 
-<a href="">Download CV</a> | <a href="">Download Resume</a> 
+<a href="">Download CV</a> -- <a href="">Download Resume</a> 
 
 <div style="height:5pt"></div>
 ## Education
