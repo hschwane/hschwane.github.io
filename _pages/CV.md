@@ -20,7 +20,7 @@ nav: true
         Thesis: <i>Performance analysis and optimization of highly diverging algorithms on GPUs</i>
     </div>
 </div>
-<div style="height: 3pt"></div>
+<div style="height: 4pt"></div>
 <div class="row">
     <div class="col-2">
         2014 - 2018
@@ -47,7 +47,7 @@ nav: true
     </div>
 </div>
 
-<div style="height:3pt"></div>
+<div style="height:4pt"></div>
 <div class="row">
     <div class="col-1">
         2020
@@ -70,7 +70,7 @@ nav: true
     </div>
 </div>
 
-<div style="height: 3pt"></div>
+<div style="height: 4pt"></div>
 <div class="row">
     <div class="col-1">
         2018
@@ -80,7 +80,7 @@ nav: true
     </div>
 </div>
 
-<div style="height:3pt"></div>
+<div style="height:4pt"></div>
 <div class="row">
     <div class="col-1">
         2013
@@ -93,7 +93,6 @@ nav: true
 <div style="height:15pt"></div>
 ## Projects
 see <a href="/projects/">projects</a>
-
 
 <div style="height:15pt"></div>
 <div class="row">
