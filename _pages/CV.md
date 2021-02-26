@@ -13,7 +13,7 @@ nav: true
         2018 - now
     </div>
     <div class="col-10">
-        <b>M.Sc Computational Visualistics</b>, University of Koblenz
+        <b>M.Sc Computational Visualistics</b>, University of Koblenz<br>
         Thesis: <i>Performance analysis and optimization of highly diverging algorithms on GPUs</i>
     </div>
 </div>
