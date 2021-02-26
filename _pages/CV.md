@@ -89,3 +89,25 @@ nav: true
         <a href="https://en.wikipedia.org/wiki/German_Physical_Society">DPG</a> recognition for very good performance in physics
     </div>
 </div>
+
+<div style="height:15pt"></div>
+## Projects
+see <a href="/projects/">projects</a>
+
+
+<div style="height:15pt"></div>
+<div class="row">
+    <div class="col-md-8">
+        <h2>Techical Skills</h2>
+        Programming: C/C++, Python, OpenGL, CUDA
+        Have also used: Javascript, PHP, HTML/CSS, R, LUA  
+        Software: LaTeX, Photoshop, Premiere, After Effects
+        Operating Systems: GNU/Linux, Windows    
+    </div>
+    <div class="col-md-4">
+        <h2>Languages</h2>
+        German: native<br>
+        Englisch: fluent
+    </div>
+</div>
+
