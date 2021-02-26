@@ -21,7 +21,7 @@ Hi, I am Hendrik. I enjoy learning, teaching, bringing people together, and acti
 
 Usually I write code in` C/C++` or` python`. I am most experienced with` computer graphics`,` gpu programming` and scientific` simulation` and` visualization`. I have also worked with embedded systems and microcontrollers, UI and websites. Check out the [projects](projects) section for a selection of my public projects. Many other programming languages have crossed my path and I am quick to try a new tool for a project, as the basic skills of programming and software engineering carry over well.
 
-Starting from April you can hire me for your project on a contract basis. I also like to teach, give talks, and provide private [tutoring](tutoring) in programming and computer science. 
+Starting from April you can hire me for your project on a contract basis. Send me an email if you are interested. I also like to teach, give talks, and provide private [tutoring](tutoring) in programming and computer science. 
 
 Before studying Computational Visualistics I worked in video production, where I have accuired some skills in `graphics design`,` photograpy` and` videography`. I am happy to offer those alongside my programming work.
 
