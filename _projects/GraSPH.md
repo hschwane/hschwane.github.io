@@ -1,7 +1,7 @@
 ---
 layout: page
 title: GraSPH
-description: Interactive Star Formation simulation
+description: Interactive Star Formation simulation.
 img: /assets/img/GraSPH/preview.png
 importance: 1
 ---
