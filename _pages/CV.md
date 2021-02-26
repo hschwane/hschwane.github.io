@@ -98,15 +98,15 @@ see <a href="/projects/">projects</a>
 <div class="row">
     <div class="col-md-8">
         <h2>Techical Skills</h2>
-        Programming: C/C++, Python, OpenGL, CUDA
-        Have also used: Javascript, PHP, HTML/CSS, R, LUA  
-        Software: LaTeX, Photoshop, Premiere, After Effects
-        Operating Systems: GNU/Linux, Windows    
+        <b>Programming:</b> C/C++, Python, OpenGL, CUDA<br>
+        <b>Have also used:</b> Javascript, PHP, HTML/CSS, R, LUA<br>  
+        <b>Software:</b> LaTeX, Photoshop, Premiere, After Effects<br>
+        <b>Operating Systems:</b> GNU/Linux, Windows<br>    
     </div>
     <div class="col-md-4">
         <h2>Languages</h2>
-        German: native<br>
-        Englisch: fluent
+        <b>German:</b> native<br>
+        <b>Englisch:</b> fluent
     </div>
 </div>
 
