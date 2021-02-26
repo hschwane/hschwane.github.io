@@ -14,6 +14,7 @@ nav: true
     </div>
     <div class="col-10">
         <b>M.Sc Computational Visualistics</b>, University of Koblenz
+        Thesis: <i>Performance analysis and optimization of highly diverging algorithms on GPUs</i>
     </div>
 </div>
 <div style="height: 3pt"></div>
@@ -23,14 +24,36 @@ nav: true
     </div>
     <div class="col-10">
         <b>B.Sc. Computational Visualistics</b>, University of Koblenz<br>
-        Thesis: <a href="https://kola.opus.hbz-nrw.de/frontdoor/index/index/year/2018/docId/1638"><i>Simulating star formation</i></a> 
+        Thesis: <a href="https://kola.opus.hbz-nrw.de/frontdoor/index/index/year/2018/docId/1638"><i>Simulating star formation</i></a> (<a href="/projects/GraSPH/">GraSPH</a>)
     </div>
 </div>
 
 
 ## Professional Experience
 
-## Puplications and Talks
+## Publications and Talks
+
+<div class="row">
+    <div class="col-1">
+        2020
+    </div>
+    <div class="col-11">
+        <b>PPP2020: Pebbles, Planetesimals and Protoplanets</b><br>
+        Title: <i>GPU accelerated fluid simulation for planet formation</i>
+    </div>
+</div>
+
+<div style="height:3pt"></div>
+<div class="row">
+    <div class="col-1">
+        2020
+    </div>
+    <div class="col-11">
+        <b>PPP2020: Pebbles, Planetesimals and Protoplanets</b><br>
+        Title: <i>Introduction to OpenGL for astrophysical visualization</i>
+    </div>
+</div>
+
 
 ## Scholorships and Awards
 
@@ -42,6 +65,7 @@ nav: true
         scholorship to participate in the <a href="http://www.ihpcss.org/">International High Performance Computing Summer School</A> in Kobe.
     </div>
 </div>
+
 <div style="height: 3pt"></div>
 <div class="row">
     <div class="col-1">
@@ -51,6 +75,7 @@ nav: true
         2nd place for the best student project at University Koblenz with <a href="/projects/GraSPH/">GraSPH</a> 
     </div>
 </div>
+
 <div style="height:3pt"></div>
 <div class="row">
     <div class="col-1">
