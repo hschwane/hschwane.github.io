@@ -94,9 +94,9 @@ nav: true
 ## Projects
 see <a href="/projects/">projects</a>
 
-<div style="height:15pt"></div>
 <div class="row">
     <div class="col-md-8">
+        <div style="height:15pt"></div>
         <h2>Techical Skills</h2>
         <b>Programming:</b> C/C++, Python, OpenGL, CUDA<br>
         <b>Have also used:</b> Javascript, PHP, HTML/CSS, R, LUA<br>  
@@ -104,6 +104,7 @@ see <a href="/projects/">projects</a>
         <b>Operating Systems:</b> GNU/Linux, Windows<br>    
     </div>
     <div class="col-md-4">
+        <div style="height:15pt"></div>
         <h2>Languages</h2>
         <b>German:</b> native<br>
         <b>Englisch:</b> fluent
