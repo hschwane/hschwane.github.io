@@ -37,8 +37,8 @@ nav: true
         2020
     </div>
     <div class="col-11">
-        <b>PPP2020: Pebbles, Planetesimals and Protoplanets</b><br>
-        Title: <i>GPU accelerated fluid simulation for planet formation</i>
+        <b>GPU accelerated fluid simulation for planet formation</b><br>
+        PPP2020: Pebbles, Planetesimals and Protoplanets
     </div>
 </div>
 
@@ -48,8 +48,8 @@ nav: true
         2020
     </div>
     <div class="col-11">
-        <b>PPP2020: Pebbles, Planetesimals and Protoplanets</b><br>
-        Title: <i>Introduction to OpenGL for astrophysical visualization</i>
+        <b>Introduction to OpenGL for astrophysical visualization</b><br>
+        PPP2020: Pebbles, Planetesimals and Protoplanets
     </div>
 </div>
 
