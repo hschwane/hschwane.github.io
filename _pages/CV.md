@@ -28,8 +28,10 @@ nav: true
     </div>
 </div>
 
+---
 ## Professional Experience
 
+---
 ## Publications and Talks
 
 <div class="row">
@@ -53,7 +55,7 @@ nav: true
     </div>
 </div>
 
-
+---
 ## Scholorships and Awards
 
 <div class="row">
