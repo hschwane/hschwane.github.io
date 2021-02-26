@@ -61,8 +61,9 @@ nav: true
     </div>
 </div>
 
----
+<div style="height:10pt"></div>
 ## Scholorships and Awards
+---
 
 <div class="row">
     <div class="col-1">
