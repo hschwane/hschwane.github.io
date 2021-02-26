@@ -6,7 +6,11 @@ description: My CV
 nav: true
 ---
 
+<a href="">Download CV</a> | <a href="">Download Resume</a> 
+
+<div style="height:5pt"></div>
 ## Education
+---
 
 <div class="row">
     <div class="col-2">
@@ -28,11 +32,13 @@ nav: true
     </div>
 </div>
 
----
+<div style="height:10pt"></div>
 ## Professional Experience
-
 ---
+
+<div style="height:10pt"></div>
 ## Publications and Talks
+---
 
 <div class="row">
     <div class="col-1">
