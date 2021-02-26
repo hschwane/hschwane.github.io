@@ -99,7 +99,7 @@ see <a href="/projects/">projects</a>
         <div style="height:15pt"></div>
         <h2>Techical Skills</h2>
         <b>Programming:</b> C/C++, Python, OpenGL, CUDA<br>
-        <b>Have also used:</b> Javascript, PHP, HTML/CSS, R, LUA<br>  
+        <b>Have also used:</b> Javascript, PHP, HTML/CSS, BASH, R, LUA<br>  
         <b>Software:</b> LaTeX, Photoshop, Premiere, After Effects<br>
         <b>Operating Systems:</b> GNU/Linux, Windows<br>    
     </div>
