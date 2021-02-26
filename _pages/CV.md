@@ -10,7 +10,6 @@ nav: true
 
 <div style="height:10pt"></div>
 ## Education
----
 
 <div class="row">
     <div class="col-2">
@@ -34,11 +33,9 @@ nav: true
 
 <div style="height:15pt"></div>
 ## Professional Experience
----
 
 <div style="height:15pt"></div>
 ## Publications and Talks
----
 
 <div class="row">
     <div class="col-1">
@@ -63,7 +60,6 @@ nav: true
 
 <div style="height:15pt"></div>
 ## Scholorships and Awards
----
 
 <div class="row">
     <div class="col-1">
