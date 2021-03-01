@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /tutoring/
+permalink: /tutoring
 title: tutoring
 description: Computer Science and Programming. School to University level.
 nav: true
