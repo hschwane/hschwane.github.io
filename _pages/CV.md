@@ -34,6 +34,22 @@ nav: true
 <div style="height:15pt"></div>
 ## Professional Experience
 
+
+
+<div style="height: 4pt"></div>
+<div class="row">
+    <div class="col-2">
+        08/2012<br>
+        04/2011
+    </div>
+    <div class="col-10">
+        <a href="https://www.inhaus.fraunhofer.de/"><b>Fraunhofer IMS / inHaus center</b></a> <br>
+        Two holiday internships, 4 weeks total.
+        Development of control software for an animated RGB-LED hotel ceiling. 
+        Concept development and implementation for the intelligent control of a Recirculating Air Cooling Unit
+    </div>
+</div>
+
 <div style="height:15pt"></div>
 ## Publications and Talks
 
@@ -86,7 +102,7 @@ nav: true
         2013
     </div>
     <div class="col-11">
-        <a href="https://en.wikipedia.org/wiki/German_Physical_Society">DPG</a> recognition for very good performance in physics
+        <a href="https://www.dpg-physik.de/?set_language=en">DPG</a> recognition for very good performance in physics
     </div>
 </div>
 
@@ -99,7 +115,7 @@ see <a href="/projects/">projects</a>
         <div style="height:15pt"></div>
         <h2>Techical Skills</h2>
         <b>Programming:</b> C/C++, Python, OpenGL, CUDA<br>
-        <b>Have also used:</b> Javascript, PHP, HTML/CSS, BASH, R, LUA<br>  
+        <b>Have also used:</b> Javascript, PHP, HTML/CSS, BASH, R, Lua<br>  
         <b>Software:</b> LaTeX, Photoshop, Premiere, After Effects<br>
         <b>Operating Systems:</b> GNU/Linux, Windows<br>    
     </div>
