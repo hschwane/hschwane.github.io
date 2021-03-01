@@ -18,10 +18,10 @@ nav: true
 ## Education
 
 <div class="row">
-    <div class="col-1 date">
+    <div class="col-2 date">
         2018 - now
     </div>
-    <div class="col-11">
+    <div class="col-10">
         <b>M.Sc Computational Visualistics</b>, University of Koblenz<br>
         Thesis: <i>Performance analysis and optimization of highly diverging algorithms on GPUs</i>
     </div>
