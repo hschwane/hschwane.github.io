@@ -34,7 +34,17 @@ nav: true
 <div style="height:15pt"></div>
 ## Professional Experience
 
-
+<div style="height: 4pt"></div>
+<div class="row">
+    <div class="col-2">
+        08/2013 - 12/2015
+    </div>
+    <div class="col-10">
+        <a href="https://www.actionconcept.com/"><b>action concept</b></a> Film- und Stuntproduktion GmbH <br>
+        <i>Nine month post production intern. Then remote working, Junior VFX Artist.</i> <br>
+        Graphics design, fictional UI design, 2D compositing and helping on the film set.
+    </div>
+</div>
 
 <div style="height: 4pt"></div>
 <div class="row">
@@ -44,7 +54,7 @@ nav: true
     </div>
     <div class="col-10">
         <a href="https://www.inhaus.fraunhofer.de/"><b>Fraunhofer IMS / inHaus center</b></a> <br>
-        Two holiday internships, 4 weeks total.
+        <i>Two holiday internships, four weeks total.</i><br>
         Development of control software for an animated RGB-LED hotel ceiling. 
         Concept development and implementation for the intelligent control of a Recirculating Air Cooling Unit
     </div>
