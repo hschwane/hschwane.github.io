@@ -44,19 +44,17 @@ nav: true
 
 <div class="row">
     <div class="col-2 date">
-        01/2016-03/2017
+        07/2020-03/2021
     </div>
     <div class="col-10">
         <a href="https://www.wizai.com/"><b>NVIDIA</b></a><b>Corporation</b><br>
-        <i>Working student, software development.</i> <br>
-        Extension and  of digital signage software based on OpenGL and a client-server-model.
-        Installation and administration of Linux-systems deployed at the customer. 
+        <i></i><br>
     </div>
 </div>
 
 <div class="row">
     <div class="col-2 date">
-        01/2016-03/2017
+        05/2018-02/2020
     </div>
     <div class="col-10">
         <a href="http://www.mpia.de/en"><b>Max-Planck-Institute for Astronomy</b></a><br>
