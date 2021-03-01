@@ -29,10 +29,10 @@ nav: true
 
 <div style="height: 4pt"></div>
 <div class="row">
-    <div class="col-1 date">
+    <div class="col-2 date">
         2014 - 2018
     </div>
-    <div class="col-11">
+    <div class="col-10">
         <b>B.Sc. Computational Visualistics</b>, University of Koblenz<br>
         Thesis: <a href="https://kola.opus.hbz-nrw.de/frontdoor/index/index/year/2018/docId/1638"><i>Simulating star formation</i></a> (<a href="/projects/GraSPH/">GraSPH</a>)
     </div>
@@ -43,10 +43,10 @@ nav: true
 
 
 <div class="row">
-    <div class="col-1 date">
+    <div class="col-2 date">
         07/2020 - 03/2021
     </div>
-    <div class="col-11">
+    <div class="col-10">
         <a href="https://www.wizai.com/"><b>NVIDIA</b></a><b>Corporation</b><br>
         <i></i><br>
     </div>
@@ -54,10 +54,10 @@ nav: true
 
 <div style="height: 4pt"></div>
 <div class="row">
-    <div class="col-1 date">
+    <div class="col-2 date">
         05/2018 - 02/2020
     </div>
-    <div class="col-11">
+    <div class="col-10">
         <a href="http://www.mpia.de/en"><b>Max-Planck-Institute for Astronomy</b></a><br>
         <i>Research assistent, research software engineer.</i> <br>
         Development of visualization tools for astrophysical simulation data. 
@@ -67,10 +67,10 @@ nav: true
 
 <div style="height: 4pt"></div>
 <div class="row">
-    <div class="col-1 date">
+    <div class="col-2 date">
         01/2016 - 03/2017
     </div>
-    <div class="col-11">
+    <div class="col-10">
         <a href="https://www.wizai.com/"><b>wizAI</b></a><b> solutions GmbH </b><br>
         <i>Working student, software development.</i> <br>
         Extension and  of digital signage software based on OpenGL and a client-server-model.
@@ -80,10 +80,10 @@ nav: true
 
 <div style="height: 4pt"></div>
 <div class="row">
-    <div class="col-1 date">
+    <div class="col-2 date">
         08/2013 - 12/2015
     </div>
-    <div class="col-11">
+    <div class="col-10">
         <a href="https://www.actionconcept.com/"><b>action concept</b></a><b> Film- und Stuntproduktion GmbH </b><br>
         <i>Nine month post production intern. Then remote working, Junior VFX Artist.</i> <br>
         Graphics design, fictional UI design, 2D compositing and other post production work. One month helping on the film set.
@@ -92,12 +92,12 @@ nav: true
 
 <div style="height: 4pt"></div>
 <div class="row">
-    <div class="col-1 date">
+    <div class="col-2 date">
         08/2012<br>
         and<br>
         04/2011
     </div>
-    <div class="col-11">
+    <div class="col-10">
         <a href="https://www.inhaus.fraunhofer.de/"><b>Fraunhofer IMS / inHaus-Center</b></a> <br>
         <i>Two holiday internships, four weeks total.</i><br>
         Development of control software for an animated RGB-LED hotel ceiling. 
