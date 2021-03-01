@@ -52,10 +52,10 @@ nav: true
     <div class="col-2">
         08/2013 - 12/2015
     </div>
-    <div class="col-12">
+    <div class="col-10">
         <a href="https://www.actionconcept.com/"><b>action concept</b></a> Film- und Stuntproduktion GmbH <br>
         <i>Nine month post production intern. Then remote working, Junior VFX Artist.</i> <br>
-        Graphics design, fictional UI design, 2D compositing and helping on the film set.
+        Graphics design, fictional UI design, 2D compositing and other post production work. One month helping on the film set.
     </div>
 </div>
 
