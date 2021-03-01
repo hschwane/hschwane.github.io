@@ -6,13 +6,19 @@ description: Curriculum Vitae
 nav: true
 ---
 
+<style>
+    .date {
+        font-size: smaller;
+    }
+</style>
+
 <!-- <a href="">Download CV</a> -- <a href="">Download Resume</a>  -->
 
 <div style="height:10pt"></div>
 ## Education
 
 <div class="row">
-    <div class="col-2">
+    <div class="col-2 date">
         2018 - now
     </div>
     <div class="col-10">
@@ -23,7 +29,7 @@ nav: true
 
 <div style="height: 4pt"></div>
 <div class="row">
-    <div class="col-2">
+    <div class="col-2 date">
         2014 - 2018
     </div>
     <div class="col-10">
@@ -36,7 +42,7 @@ nav: true
 ## Professional Experience
 
 <div class="row">
-    <div class="col-2">
+    <div class="col-2 date">
         01/2016 - 03/2017
     </div>
     <div class="col-10">
@@ -49,7 +55,7 @@ nav: true
 
 <div style="height: 4pt"></div>
 <div class="row">
-    <div class="col-2">
+    <div class="col-2 date">
         08/2013 - 12/2015
     </div>
     <div class="col-10">
@@ -61,9 +67,8 @@ nav: true
 
 <div style="height: 4pt"></div>
 <div class="row">
-    <div class="col-2">
+    <div class="col-2 date">
         08/2012<br>
-        and<br>
         04/2011
     </div>
     <div class="col-10">
@@ -78,7 +83,7 @@ nav: true
 ## Publications and Talks
 
 <div class="row">
-    <div class="col-1">
+    <div class="col-1 date">
         2020
     </div>
     <div class="col-11">
@@ -89,7 +94,7 @@ nav: true
 
 <div style="height:4pt"></div>
 <div class="row">
-    <div class="col-1">
+    <div class="col-1 date">
         2020
     </div>
     <div class="col-11">
@@ -102,7 +107,7 @@ nav: true
 ## Scholorships and Awards
 
 <div class="row">
-    <div class="col-1">
+    <div class="col-1 date">
         2019
     </div>
     <div class="col-11">
@@ -112,17 +117,17 @@ nav: true
 
 <div style="height: 4pt"></div>
 <div class="row">
-    <div class="col-1">
+    <div class="col-1 date">
         2018
     </div>
-    <div class="col-11">
+    <div class="col-11 date">
         2nd place for the best student project at University Koblenz with <a href="/projects/GraSPH/">GraSPH</a> 
     </div>
 </div>
 
 <div style="height:4pt"></div>
 <div class="row">
-    <div class="col-1">
+    <div class="col-1 date">
         2013
     </div>
     <div class="col-11">
