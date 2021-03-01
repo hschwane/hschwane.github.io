@@ -47,7 +47,7 @@ nav: true
         07/2020 - 03/2021
     </div>
     <div class="col-9 col-sm-10">
-        <a href="https://www.nvidia.com/"><b>NVIDIA</b></a><b>Corporation</b><br>
+        <a href="https://www.nvidia.com/"><b>NVIDIA</b></a><b> Corporation</b><br>
         <i>Intern in HPC computing and visualization.</i><br>
         Performance optimization of the <a href="https://icecube.wisc.edu/"><b>IceCube</b></a> photon propagation simulation code, a highly divergent CUDA code, resulting in a 3x speedup of day-to-day production simulation.
     </div>
