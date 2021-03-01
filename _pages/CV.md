@@ -52,9 +52,10 @@ nav: true
     </div>
 </div>
 
+<div style="height: 4pt"></div>
 <div class="row">
     <div class="col-1 date">
-        05/2018-02/2020
+        05/2018 - 02/2020
     </div>
     <div class="col-11">
         <a href="http://www.mpia.de/en"><b>Max-Planck-Institute for Astronomy</b></a><br>
