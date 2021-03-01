@@ -36,22 +36,23 @@ nav: true
 ## Professional Experience
 
 <div class="row">
-    <div class="col-3">
+    <div class="col-2">
         01/2016 - 03/2017
     </div>
-    <div class="col-9">
-        <a href="https://www.wizai.com/"><b>wizAI solutions GmbH</b></a><br>
-        <i>Nine month post production intern. Then remote working, Junior VFX Artist.</i> <br>
-        Graphics design, fictional UI design, 2D compositing and helping on the film set.
+    <div class="col-10">
+        <a href="https://www.wizai.com/"><b>wizAI</b></a> solutions GmbH <br>
+        <i>Working student, software development.</i> <br>
+        Extension and  of digital signage software based on OpenGL and a client-server-model.
+        Installation and administration of Linux-systems deployed at the customer. 
     </div>
 </div>
 
 <div style="height: 4pt"></div>
 <div class="row">
-    <div class="col-3">
+    <div class="col-2">
         08/2013 - 12/2015
     </div>
-    <div class="col-9">
+    <div class="col-12">
         <a href="https://www.actionconcept.com/"><b>action concept</b></a> Film- und Stuntproduktion GmbH <br>
         <i>Nine month post production intern. Then remote working, Junior VFX Artist.</i> <br>
         Graphics design, fictional UI design, 2D compositing and helping on the film set.
@@ -60,12 +61,12 @@ nav: true
 
 <div style="height: 4pt"></div>
 <div class="row">
-    <div class="col-3">
+    <div class="col-2">
         08/2012<br>
         and<br>
         04/2011
     </div>
-    <div class="col-9">
+    <div class="col-10">
         <a href="https://www.inhaus.fraunhofer.de/"><b>Fraunhofer IMS / inHaus-Center</b></a> <br>
         <i>Two holiday internships, four weeks total.</i><br>
         Development of control software for an animated RGB-LED hotel ceiling. 
