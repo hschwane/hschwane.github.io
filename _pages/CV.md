@@ -8,7 +8,7 @@ nav: true
 
 <style>
     .date {
-        font-size: 90%;
+        font-size: 100%;
     }
 </style>
 
