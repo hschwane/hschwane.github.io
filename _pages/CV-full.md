@@ -1,6 +1,6 @@
 ---
 layout: pure-page
-permalink: /cv-full/
+permalink: /cv-full
 title: CV
 description: Curriculum Vitae
 nav: false
