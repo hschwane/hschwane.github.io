@@ -41,12 +41,37 @@ nav: true
 <div style="height:15pt"></div>
 ## Professional Experience
 
+
 <div class="row">
     <div class="col-2 date">
-        01/2016 - 03/2017
+        01/2016-03/2017
     </div>
     <div class="col-10">
-        <a href="https://www.wizai.com/"><b>wizAI</b></a> solutions GmbH <br>
+        <a href="https://www.wizai.com/"><b>NVIDIA</b></a><b>Corporation</b><br>
+        <i>Working student, software development.</i> <br>
+        Extension and  of digital signage software based on OpenGL and a client-server-model.
+        Installation and administration of Linux-systems deployed at the customer. 
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-2 date">
+        01/2016-03/2017
+    </div>
+    <div class="col-10">
+        <a href="http://www.mpia.de/en"><b>Max-Planck-Institute for Astronomy</b></a><br>
+        <i>Research assistent, research software engineer.</i> <br>
+        Development
+    </div>
+</div>
+
+<div style="height: 4pt"></div>
+<div class="row">
+    <div class="col-2 date">
+        01/2016-03/2017
+    </div>
+    <div class="col-10">
+        <a href="https://www.wizai.com/"><b>wizAI</b></a><b> solutions GmbH </b><br>
         <i>Working student, software development.</i> <br>
         Extension and  of digital signage software based on OpenGL and a client-server-model.
         Installation and administration of Linux-systems deployed at the customer. 
@@ -56,10 +81,10 @@ nav: true
 <div style="height: 4pt"></div>
 <div class="row">
     <div class="col-2 date">
-        08/2013 - 12/2015
+        08/2013-12/2015
     </div>
     <div class="col-10">
-        <a href="https://www.actionconcept.com/"><b>action concept</b></a> Film- und Stuntproduktion GmbH <br>
+        <a href="https://www.actionconcept.com/"><b>action concept</b></a><b> Film- und Stuntproduktion GmbH </b><br>
         <i>Nine month post production intern. Then remote working, Junior VFX Artist.</i> <br>
         Graphics design, fictional UI design, 2D compositing and other post production work. One month helping on the film set.
     </div>
@@ -120,7 +145,7 @@ nav: true
     <div class="col-1 date">
         2018
     </div>
-    <div class="col-11 date">
+    <div class="col-11">
         2nd place for the best student project at University Koblenz with <a href="/projects/GraSPH/">GraSPH</a> 
     </div>
 </div>
