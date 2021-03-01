@@ -8,7 +8,7 @@ nav: true
 
 <style>
     .date {
-        font-size: 300%;
+        font-size: 90%;
     }
 </style>
 
@@ -60,7 +60,7 @@ nav: true
     <div class="col-11">
         <a href="http://www.mpia.de/en"><b>Max-Planck-Institute for Astronomy</b></a><br>
         <i>Research assistent, research software engineer.</i> <br>
-        Development of visualization tools. 
+        Development of visualization tools for astrophysical simulation data. 
         Development of GPU-based interactive simulation code for planet formation (<a href="/projects/GraSPH2">GraSPH2</a>).
     </div>
 </div>
