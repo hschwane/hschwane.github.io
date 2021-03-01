@@ -44,7 +44,7 @@ nav: true
 
 <div class="row">
     <div class="col-2 date">
-        07/2020-03/2021
+        07/2020 - 03/2021
     </div>
     <div class="col-10">
         <a href="https://www.wizai.com/"><b>NVIDIA</b></a><b>Corporation</b><br>
@@ -67,7 +67,7 @@ nav: true
 <div style="height: 4pt"></div>
 <div class="row">
     <div class="col-2 date">
-        01/2016-03/2017
+        01/2016 - 03/2017
     </div>
     <div class="col-10">
         <a href="https://www.wizai.com/"><b>wizAI</b></a><b> solutions GmbH </b><br>
@@ -80,7 +80,7 @@ nav: true
 <div style="height: 4pt"></div>
 <div class="row">
     <div class="col-2 date">
-        08/2013-12/2015
+        08/2013 - 12/2015
     </div>
     <div class="col-10">
         <a href="https://www.actionconcept.com/"><b>action concept</b></a><b> Film- und Stuntproduktion GmbH </b><br>
@@ -93,6 +93,7 @@ nav: true
 <div class="row">
     <div class="col-2 date">
         08/2012<br>
+        and<br>
         04/2011
     </div>
     <div class="col-10">
