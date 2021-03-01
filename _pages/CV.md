@@ -61,7 +61,8 @@ nav: true
     <div class="col-10">
         <a href="http://www.mpia.de/en"><b>Max-Planck-Institute for Astronomy</b></a><br>
         <i>Research assistent, research software engineer.</i> <br>
-        Development
+        Development of visualization tools. 
+        Development of GPU-based interactive simulation code for planet formation (<a href="/projects/GraSPH2">GraSPH2</a>).
     </div>
 </div>
 
