@@ -12,7 +12,7 @@ Klever Straße 34a\
 46569 Hünxe
 
 email: [{{ site.email }}](mailto:{{ site.email }})\
-phone: +49 157 76492810
+phone: +49 157 7649 2810
 
 ---
 ### cookies
