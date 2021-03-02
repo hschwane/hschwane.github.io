@@ -169,7 +169,7 @@ nav: false
 
 <div style="height:15pt"></div>
 ## Projects
-see <a href="/projects/">projects</a>
+selection, see more <a href="/projects/">projects</a> on my website
 
 <div class="row">
     <div class="col-md-8">
