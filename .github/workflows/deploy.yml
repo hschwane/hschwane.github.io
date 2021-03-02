@@ -52,3 +52,9 @@ jobs:
       run:  yes | bin/deploy --verbose ${{ steps.setup.outputs.NO_PUSH }}
                     --src ${{ steps.setup.outputs.SRC_BRANCH }} 
                     --deploy ${{ steps.setup.outputs.DEPLOY_BRANCH }} 
+    - name: HTML to PDF
+      uses: fifsky/html-to-pdf-action@v0.0.2
+      with:
+        htmlFile: ./cv-full.html
+        outputFile: ./assets/pdf/cv-schwanekamp.pdf
+        pdfOptions: '{"format": "A4", "margin": {"top": "10mm", "left": "10mm", "right": "10mm", "bottom": "10mm"}}'
