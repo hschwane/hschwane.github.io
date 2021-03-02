@@ -12,7 +12,7 @@ nav: true
     }
 </style>
 
-<!-- <a href="">Download CV</a> -- <a href="">Download Resume</a>  -->
+<a href="/cv-full">Printable version</a> -- <a href="/assets/pdf/cv-schwanekamp.pdf">Download</a>
 
 <div style="height:10pt"></div>
 ## Education
