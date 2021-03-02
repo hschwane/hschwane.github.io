@@ -2,8 +2,9 @@
 layout: pure-page
 permalink: /cv-full
 title: CV
-description: <a href="mailto:{{ site.email }}"><i class="fas fa-envelope"></i> {{ site.email }}</a> &bull; 
-             <i class="fas fa-phone-square"></i> +49 157 7649 2810 <a href="https://hschwane.github.io"><i class="fas fa-globe"></i> hschwane.github.io</a> &bull; 
+description: <i class="fas fa-envelope"></i><a href="hendrik.schwanekamp@gmx.net"> hendrik.schwanekamp@gmx.net</a> &nbsp; &nbsp;
+             <i class="fas fa-phone-square"></i> +49 157 7649 2810 &nbsp; &nbsp;
+             <i class="fas fa-globe"></i><a href="https://hschwane.github.io"> hschwane.github.io</a> &bull; 
 nav: false
 ---
 
