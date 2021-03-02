@@ -41,9 +41,9 @@ nav: false
     </div>
 </div>
 
+
 <div style="height:15pt"></div>
 ## Professional Experience
-
 
 <div class="row">
     <div class="col-3 col-sm-2 date">
@@ -109,6 +109,7 @@ nav: false
     </div>
 </div>
 
+
 <div style="height:15pt"></div>
 ## Publications and Talks
 
@@ -132,6 +133,7 @@ nav: false
         PPP2020: Pebbles, Planetesimals and Protoplanets
     </div>
 </div>
+
 
 <div style="height:15pt"></div>
 ## Scholorships and Awards
@@ -165,6 +167,7 @@ nav: false
     </div>
 </div>
 
+
 <div style="height:15pt"></div>
 ## Projects
 see <a href="/projects/">projects</a>
@@ -185,4 +188,11 @@ see <a href="/projects/">projects</a>
         <b>Englisch:</b> fluent
     </div>
 </div>
+
+
+<div style="height:15pt"></div>
+## Hobbies and Interests
+
+cooking, electronics, photography, reading, writing, games, art and sailing
+
 
