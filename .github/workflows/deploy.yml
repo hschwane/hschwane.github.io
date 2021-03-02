@@ -60,4 +60,5 @@ jobs:
         pdfOptions: '{"format": "A4", "margin": {"top": "10mm", "left": "10mm", "right": "10mm", "bottom": "10mm"}}'
     - name: Git Auto Commit
       uses: stefanzweifel/git-auto-commit-action@v4.9.1
-      
+      with:
+        push_options: --force
