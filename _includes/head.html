@@ -37,7 +37,7 @@
 {% include scripts/jquery.html %}
 
 <!-- Theming-->
-{% if site.enable_darkmode %}
+{% if site.enable_darkmode and not page.force_bright==false %}
   <script src="{{ '/assets/js/theme.js' | relative_url }}"></script>
   <!-- Load DarkMode JS -->
 <script src="{{ '/assets/js/dark_mode.js' | relative_url }}"></script>
