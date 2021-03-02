@@ -138,7 +138,7 @@ nav: true
         2019
     </div>
     <div class="col-11">
-        scholorship to participate in the <a href="http://www.ihpcss.org/">International High Performance Computing Summer School</A> in Kobe.
+        scholorship to participate in the <a href="http://www.ihpcss.org/">International High Performance Computing Summer School</A> in Kobe
     </div>
 </div>
 
