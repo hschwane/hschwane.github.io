@@ -37,7 +37,7 @@
 {% include scripts/jquery.html %}
 
 <!-- Theming-->
-{% if site.enable_darkmode and not page.force_bright==false %}
+{% if site.enable_darkmode and not force_bright == false %}
   <script src="{{ '/assets/js/theme.js' | relative_url }}"></script>
   <!-- Load DarkMode JS -->
 <script src="{{ '/assets/js/dark_mode.js' | relative_url }}"></script>
@@ -47,7 +47,7 @@
 <script src="{{ '/assets/js/hideLinkIfScrollbar.js' | relative_url }}"></script>
 
 <!-- Cookie Consent by https://www.CookieConsent.com -->
-{% if page.disable_cc == false %}
+{% if disable_cc == false %}
 <script type="text/javascript" src="//www.cookieconsent.com/releases/3.1.0/cookie-consent.js"></script>
 <script type="text/javascript">
   document.addEventListener('DOMContentLoaded', function () {
