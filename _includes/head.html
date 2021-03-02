@@ -47,6 +47,7 @@
 <script src="{{ '/assets/js/hideLinkIfScrollbar.js' | relative_url }}"></script>
 
 <!-- Cookie Consent by https://www.CookieConsent.com -->
+{% if page.disable_cc == false %}
 <script type="text/javascript" src="//www.cookieconsent.com/releases/3.1.0/cookie-consent.js"></script>
 <script type="text/javascript">
   document.addEventListener('DOMContentLoaded', function () {
@@ -54,6 +55,7 @@
                        "change_preferences_selector":"#changeCookiePreferences"});
   });
 </script>
+{% endif %}
 
 <!-- include scripts that use cokies and tracking stuff here as text/plain -->
 <script type="text/plain" cookie-consent="tracking" src="{{ '/assets/js/analytics.js' | relative_url }}"></script>
