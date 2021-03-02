@@ -57,7 +57,7 @@ jobs:
       with:
         htmlFile: ./cv-full.html
         outputFile: ./assets/pdf/cv-schwanekamp.pdf
-        pdfOptions: '{"format": "A4", "margin": {"top": "10mm", "left": "25mm", "right": "25mm", "bottom": "10mm"}}'
+        pdfOptions: '{"format": "A4", "margin": {"top": "10mm", "left": "20mm", "right": "20mm", "bottom": "10mm"}}'
     - name: Git Auto Commit
       uses: stefanzweifel/git-auto-commit-action@v4.9.1
       with:
