@@ -42,7 +42,7 @@
     <script src="{{ '/assets/js/theme.js' | relative_url }}"></script>
     <!-- Load DarkMode JS -->
     <script src="{{ '/assets/js/dark_mode.js' | relative_url }}"></script>
-  {% endif %}
+  {% endunless %}
 {% endif %}
 
 <!-- some helper functions -->
@@ -57,7 +57,7 @@
                        "change_preferences_selector":"#changeCookiePreferences"});
   });
 </script>
-{% endif %}
+{% endunless %}
 
 <!-- include scripts that use cokies and tracking stuff here as text/plain -->
 <script type="text/plain" cookie-consent="tracking" src="{{ '/assets/js/analytics.js' | relative_url }}"></script>
