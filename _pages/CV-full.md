@@ -16,7 +16,6 @@ nav: false
     }
 </style>
 
-
 <div style="height:15pt"></div>
 ## Education
 
