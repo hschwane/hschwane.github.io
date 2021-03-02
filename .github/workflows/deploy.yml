@@ -56,5 +56,5 @@ jobs:
       uses: fifsky/html-to-pdf-action@v0.0.2
       with:
         htmlFile: ./cv-full.html
-        outputFile: ./assets/pdf/cv-schwanekamp.pdf
+        outputFile: ./cv-schwanekamp.pdf
         pdfOptions: '{"format": "A4", "margin": {"top": "10mm", "left": "10mm", "right": "10mm", "bottom": "10mm"}}'
