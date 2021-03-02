@@ -2,7 +2,7 @@
 layout: pure-page
 permalink: /cv-full
 title: CV
-description: Curriculum Vitae
+description: <a href="https://hschwane.github.io"><i class="fas fa-globe"></i>hschwane.github.io</a> &bull; 
 nav: false
 ---
 
