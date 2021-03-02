@@ -142,7 +142,7 @@ nav: false
         2019
     </div>
     <div class="col-11">
-        scholorship to participate in the <a href="http://www.ihpcss.org/">International High Performance Computing Summer School</A> in Kobe.
+        scholorship to participate in the <a href="http://www.ihpcss.org/">International High Performance Computing Summer School</A> in Kobe
     </div>
 </div>
 
@@ -192,6 +192,6 @@ see <a href="/projects/">projects</a>
 <div style="height:15pt"></div>
 ## Hobbies and Interests
 
-cooking, electronics, photography, reading, writing, games, art and sailing
+Cooking, electronics, photography, reading, writing, games, art and sailing.
 
 
