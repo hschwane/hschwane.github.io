@@ -6,7 +6,8 @@ description: <i class="fas fa-envelope"></i><a href="hendrik.schwanekamp@gmx.net
              <i class="fas fa-phone-square"></i> +49 157 7649 2810 &nbsp; &nbsp;
              <i class="fas fa-globe"></i><a href="https://hschwane.github.io"> hschwane.github.io</a> &nbsp; &nbsp;
              <i class="fab fa-github"></i><a href="https://github.com/hschwane"> github.com/hschwane</a> &nbsp; &nbsp;
-             <i class="fab fa-youtube"></i><a href="https://youtube.com"> youtube</a> 
+             <i class="fab fa-youtube"></i><a href="https://youtube.com"> youtube</a> &nbsp; &nbsp;
+             <i class="fas fa-map-marker-alt"></i> Germany 
 nav: false
 ---
 
@@ -16,9 +17,8 @@ nav: false
     }
 </style>
 
-<!-- <a href="">Download CV</a> -- <a href="">Download Resume</a>  -->
 
-<div style="height:10pt"></div>
+<div style="height:15pt"></div>
 ## Education
 
 <div class="row">
