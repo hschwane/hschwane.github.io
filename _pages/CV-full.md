@@ -8,10 +8,9 @@ description: <i class="fas fa-envelope"></i><a href="hendrik.schwanekamp@gmx.net
              <i class="fas fa-globe"></i><a href="https://hschwane.github.io"> hschwane.github.io</a> &nbsp; &nbsp;
              <i class="fab fa-github"></i><a href="https://github.com/hschwane"> github.com/hschwane</a>         
 nav: false
+disable_cc: true
+force_bright: true
 ---
-
-{% assign force_bright = true %}
-{% assign disable_cc = true %}
 
 <style>
     .date {
