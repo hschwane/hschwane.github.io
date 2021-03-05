@@ -98,6 +98,19 @@ force_white: true
 <div style="height: 4pt"></div>
 <div class="row">
     <div class="col-3 col-sm-2 date">
+        2011 - <br>2016
+    </div>
+    <div class="col-9 col-sm-10">
+        <b>Redstone Entertainment</b>
+        <i>Founding member.</i> <br>
+        Producing commercials and image films for local buisnisses. Creating doumentaries on behalf of the local goverment. 
+        Making short movies for competetions and festivals. 
+    </div>
+</div>
+
+<div style="height: 4pt"></div>
+<div class="row">
+    <div class="col-3 col-sm-2 date">
         08/2012<br>
         and<br>
         04/2011
