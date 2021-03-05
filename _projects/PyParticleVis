@@ -1,0 +1,10 @@
+---
+layout: page
+title: PyParticleVis
+description: Python 3D Visualization for point clouds and particle data sets.
+img: /assets/img/GraSPH/preview.png
+importance: 3
+---
+
+[view on github](https://github.com/hschwane/PyParticleVis)
+
