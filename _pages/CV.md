@@ -82,6 +82,18 @@ nav: true
 <div style="height: 4pt"></div>
 <div class="row">
     <div class="col-3 col-sm-2 date">
+        08/2013 - 12/2015
+    </div>
+    <div class="col-9 col-sm-10">
+        <a href="https://www.actionconcept.com/"><b>action concept</b></a><b> Film- und Stuntproduktion GmbH </b><br>
+        <i>Nine month post production intern. Then remote working, Junior VFX Artist.</i> <br>
+        Graphics design, fictional UI design, 2D compositing and other post production work. One month helping on the film set.
+    </div>
+</div>
+
+<div style="height: 4pt"></div>
+<div class="row">
+    <div class="col-3 col-sm-2 date">
         2011 - <br>2016
     </div>
     <div class="col-9 col-sm-10">
@@ -89,18 +101,6 @@ nav: true
         <i>Founding member.</i> <br>
         Producing commercials and image films for local buisnisses. Creating doumentaries on behalf of the local goverment. 
         Making short movies for competetions and festivals. 
-    </div>
-</div>
-
-<div style="height: 4pt"></div>
-<div class="row">
-    <div class="col-3 col-sm-2 date">
-        08/2013 - 12/2015
-    </div>
-    <div class="col-9 col-sm-10">
-        <a href="https://www.actionconcept.com/"><b>action concept</b></a><b> Film- und Stuntproduktion GmbH </b><br>
-        <i>Nine month post production intern. Then remote working, Junior VFX Artist.</i> <br>
-        Graphics design, fictional UI design, 2D compositing and other post production work. One month helping on the film set.
     </div>
 </div>
 
