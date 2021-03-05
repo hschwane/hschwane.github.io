@@ -97,8 +97,8 @@ nav: true
         2011 - <br>2016
     </div>
     <div class="col-9 col-sm-10">
-        <b>Redstone Entertainment</b>
-        <i>Founding member.</i> <br>
+        <b>Redstone Entertainment</b><br>
+        <i>Founding member.</i><br>
         Producing commercials and image films for local buisnisses. Creating doumentaries on behalf of the local goverment. 
         Making short movies for competetions and festivals. 
     </div>
