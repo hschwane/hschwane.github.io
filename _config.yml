@@ -7,8 +7,7 @@ first_name: Hendrik
 middle_name: 
 last_name: Schwanekamp
 email: hendrik.schwanekamp@gmx.net
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  My website...
+description: Hendrik Schwanekamp's Website
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   <button id="changeCookiePreferences">Cookie Preference</button>
