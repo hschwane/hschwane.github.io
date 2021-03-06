@@ -3,7 +3,7 @@ layout: page
 title: Miniball Cuda
 description: Find the smallest sphere that encloses a set of points.
 img:
-importance: 2
+importance: 3
 ---
 
 [view on github](https://github.com/hschwane/MiniballCuda)
