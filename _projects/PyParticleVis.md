@@ -21,13 +21,19 @@ This project takes the point cloud visualization code form [GraSPH](/projects/Gr
 
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm mt-4 mt-md-0">
+    <div class="col-sm mt-6 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/pyparticlevis/ppv_img1.png' | relative_url }}" alt="" title="two protostars merging"/>
     </div>
-    <div class="col-sm mt-4 mt-md-0">
+    <div class="col-sm mt-6 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/pyparticlevis/ppv_img2.png' | relative_url }}" alt="" title="two protostars merging"/>
     </div>
-    <div class="col-sm mt-4 mt-md-0">
+</div>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm mt-6 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/pyparticlevis/ppv_img3.png' | relative_url }}" alt="" title="two protostars merging"/>
+    </div>
+    <div class="col-sm mt-6 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ 'https://hschwane.github.io/assets/img/GraSPH/06.png' | relative_url }}" alt="" title="two protostars merging"/>
     </div>
 </div>
