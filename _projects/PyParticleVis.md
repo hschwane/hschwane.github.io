@@ -6,7 +6,7 @@ img: /assets/img/pyparticlevis/ppv_img1.png
 importance: 2
 ---
 
-[view on github](https://github.com/hschwane/PyParticleVis)
+<a href="https://github.com/hschwane/PyParticleVis"><i class="fab fa-github"></i> view on github</a>
 
 This project takes the point cloud visualization code form [GraSPH](/projects/GraSPH) / [GraSPH2](/projects/GraSPH2) and makes it accesible from python. Anyone who uses python for data analysis of point or particle datasets can use **PyParticleVis** to explore their data in 3D. 
 
