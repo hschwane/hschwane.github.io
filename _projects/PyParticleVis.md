@@ -21,10 +21,10 @@ This project takes the point cloud visualization code form [GraSPH](/projects/Gr
 
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm mt-2">
+    <div class="col mt-2">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/pyparticlevis/ppv_img1.png' | relative_url }}" alt="" title="two protostars merging"/>
     </div>
-    <div class="col-sm mt-2">
+    <div class="col mt-2">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/pyparticlevis/ppv_img2.png' | relative_url }}" alt="" title="two protostars merging"/>
     </div>
 </div>
