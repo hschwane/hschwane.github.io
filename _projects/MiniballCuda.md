@@ -6,7 +6,7 @@ img:
 importance: 3
 ---
 
-[view on github](https://github.com/hschwane/MiniballCuda)
+<a href="https://github.com/hschwane/MiniballCuda"><i class="fab fa-github"></i> view on github</a>
 
 While working with spatial data structures to accelerate n-body GPU simulation, I experimented with bounding spheres. 
 To generate the smallest sphere enclosing all child nodes, I ported Bernd Gaertner's Miniball algorithm to CUDA. 
