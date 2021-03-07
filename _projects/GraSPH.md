@@ -6,7 +6,7 @@ img: /assets/img/GraSPH/preview.png
 importance: 1
 ---
 
-[view on github](https://github.com/hschwane/GraSPH)
+[<i class="fab fa-github"></i> view on github](https://github.com/hschwane/GraSPH)
 
 For my bachelor thesis, I developed a code to simulate star formation interactively. 
 It simulates a gas cloud using [Smoothed Particle Hydrodynamics](https://en.wikipedia.org/wiki/Smoothed-particle_hydrodynamics). 
