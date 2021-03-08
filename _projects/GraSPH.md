@@ -6,7 +6,7 @@ img: /assets/img/GraSPH/preview.png
 importance: 1
 ---
 
-<a href="https://github.com/hschwane/GraSPH"><i class="fab fa-github"></i> view on github</a>
+<a href="https://github.com/hschwane/GraSPH"><i class="fab fa-github"></i> view on github</a><br>
 <a href="https://kola.opus.hbz-nrw.de/frontdoor/index/index/docId/1638"><i class="fas fa-book"></i> thesis (german)</a>
 
 For my bachelor thesis, I developed a code to simulate star formation interactively. 
