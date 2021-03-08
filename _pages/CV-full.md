@@ -2,7 +2,7 @@
 layout: pure-page
 permalink: /cv-full
 title: CV0
-description: <i class="fas fa-envelope"></i><a href="mailto:hendrik.schwanekamp@gmx.net"> hendrik.schwanekamp@gmx.net</a> &nbsp; &nbsp;
+description: <i class="fas fa-envelope"></i><a href="mailto:hendrikschwanekamp@gmail.com"> hendrikschwanekamp@gmail.com</a> &nbsp; &nbsp;
              <i class="fas fa-phone-square"></i> +49 157 7649 2810 &nbsp; &nbsp;
              <i class="fas fa-map-marker-alt"></i> Germany <br>
              <i class="fas fa-globe"></i><a href="https://hschwane.github.io"> hschwane.github.io</a> &nbsp; &nbsp;
