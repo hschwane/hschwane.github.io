@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CIRCULATION
-description: An attempt on interactive climate simulation.
+description: An attempt at interactive climate simulation.
 img: /assets/img/circulation/circ_title.png
 importance: 2
 ---
