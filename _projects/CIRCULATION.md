@@ -45,7 +45,7 @@ It is merly a project documentation and should be treated as such.
     </div>
 </div>
 <div class="caption">
-    Vector fields can be visualized as particles or streamlines.
+    Vector fields can be visualized as arrows or streamlines.
 </div>
 
 <div class="row justify-content-sm-center">
