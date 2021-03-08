@@ -6,7 +6,7 @@ img: /assets/img/circulation/circ_title.png
 importance: 2
 ---
 
-<a href="https://github.com/hschwane/CIRCULATION"><i class="fab fa-github"></i> view on github</a>
+<a href="https://github.com/hschwane/CIRCULATION"><i class="fab fa-github"></i> view on github</a><br>
 <a href="/assets/pdf/schwanekamp2020interactiveMeteorology.pdf"><i class="fas fa-book"></i> pdf documentation</a>
 
 Many people only showcase the projects they consider sucessfull. 
