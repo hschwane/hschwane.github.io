@@ -60,7 +60,7 @@ nav: true
     </div>
     <div class="col-9 col-sm-10">
         <a href="http://www.mpia.de/en"><b>Max-Planck-Institute for Astronomy</b></a><br>
-        <i>Research assistent, research software engineer.</i> <br>
+        <i>Research assistant, research software engineer.</i> <br>
         Development of visualization tools for astrophysical simulation data. 
         Development of GPU-based interactive simulation code for planet formation (<a href="/projects/GraSPH2">GraSPH2</a>).
     </div>
@@ -99,7 +99,7 @@ nav: true
     <div class="col-9 col-sm-10">
         <b>Redstone Entertainment</b><br> 
         <i>Founding member.</i><br>
-        Producing commercials and image films for local buisnisses. Creating doumentaries on behalf of the local goverment. 
+        Producing commercials and image films for local businesses. Creating doumentaries on behalf of the local goverment. 
         Making short movies for competetions and festivals. 
     </div>
 </div>
