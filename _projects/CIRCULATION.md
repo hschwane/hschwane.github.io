@@ -7,6 +7,7 @@ importance: 2
 ---
 
 <a href="https://github.com/hschwane/CIRCULATION"><i class="fab fa-github"></i> view on github</a>
+<a href="/assets/pdf/schwanekamp2020interactiveMeteorology.pdf"><i class="fas fa-book"></i> pdf documentation</a>
 
 Many people only showcase the projects they consider sucessfull. 
 Not only does this create unrealistic expectations of how the research process looks like, 
