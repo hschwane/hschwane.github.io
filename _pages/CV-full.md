@@ -18,7 +18,7 @@ force_white: true
     }
 </style>
 
-<div style="height:15pt"></div>
+<div style="height:10pt"></div>
 ## Education
 
 <div class="row">
@@ -42,9 +42,9 @@ force_white: true
     </div>
 </div>
 
-
 <div style="height:15pt"></div>
 ## Professional Experience
+
 
 <div class="row">
     <div class="col-3 col-sm-2 date">
@@ -64,7 +64,7 @@ force_white: true
     </div>
     <div class="col-9 col-sm-10">
         <a href="http://www.mpia.de/en"><b>Max-Planck-Institute for Astronomy</b></a><br>
-        <i>Research assistent, research software engineer.</i> <br>
+        <i>Research assistant, research software engineer.</i> <br>
         Development of visualization tools for astrophysical simulation data. 
         Development of GPU-based interactive simulation code for planet formation (<a href="/projects/GraSPH2">GraSPH2</a>).
     </div>
@@ -101,9 +101,9 @@ force_white: true
         2011 - <br>2016
     </div>
     <div class="col-9 col-sm-10">
-        <b>Redstone Entertainment</b><br>
+        <b>Redstone Entertainment</b><br> 
         <i>Founding member.</i><br>
-        Producing commercials and image films for local buisnisses. Creating doumentaries on behalf of the local goverment. 
+        Producing commercials and image films for local businesses. Creating doumentaries on behalf of the local goverment. 
         Making short movies for competetions and festivals. 
     </div>
 </div>
@@ -122,7 +122,6 @@ force_white: true
         Concept development and implementation for the intelligent control of a Recirculating Air Cooling Unit
     </div>
 </div>
-
 
 <div style="height:15pt"></div>
 ## Publications and Talks
@@ -147,7 +146,6 @@ force_white: true
         PPP2020: Pebbles, Planetesimals and Protoplanets
     </div>
 </div>
-
 
 <div style="height:15pt"></div>
 ## Scholorships and Awards
@@ -181,10 +179,9 @@ force_white: true
     </div>
 </div>
 
-
 <div style="height:15pt"></div>
 ## Projects
-selection, see more <a href="/projects/">projects</a> on my website
+selection, see more <a href="/projects/">projects on my website</a>
 
 <div class="row">
     <div class="col-md-8">
