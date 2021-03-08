@@ -50,7 +50,7 @@ It is merly a project documentation and should be treated as such.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-2">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/circulation/poleadvection.png' | relative_url }}" alt="advection over the pole" title=""/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/circulation/poleadvection.png' | relative_url }}" alt="" title="advection over the pole"/>
     </div>
     <div class="col-sm mt-2">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/circulation/polereflection.png ' | relative_url }}" alt="" title="reflection at the pole"/>
@@ -62,7 +62,7 @@ It is merly a project documentation and should be treated as such.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-2">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/circulation/lolagrid.png' | relative_url }}" alt="longitude latitude grid" title=""/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/circulation/lolagrid.png' | relative_url }}" alt="" title="longitude latitude grid"/>
     </div>
     <div class="col-sm mt-2">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/circulation/icogrid.png' | relative_url }}" alt="" title="icosahedral grid"/>
