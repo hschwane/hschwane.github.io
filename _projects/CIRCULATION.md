@@ -28,28 +28,49 @@ While it might be formatted like a research paper it was not peer reviewed and p
 It is merly a project documentation and should be treated as such.
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/circulation/circ_full.png' | relative_url }}" alt="" title="full user interface"/>
+    <div class="col-sm mt-3">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/circulation/circulation_full.png' | relative_url }}" alt="" title="circulation ui and visualization"/>
     </div>
 </div>
 <div class="caption">
-    Multiple zoom levels of the simulation composited on top of each other. This shows the wide range of different scales SPH can handle in one simulation. Since it is based on particles, variable resulotion is almost 'build in'.
+    Screenshot shows the ui and visualization during a running simulation.
 </div>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-2">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/pyparticlevis/ppv_img1.png' | relative_url }}" alt="" title="two protostars merging"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/circulation/arrows_small.png' | relative_url }}" alt="" title="vector field arrows"/>
     </div>
     <div class="col-sm mt-2">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/pyparticlevis/ppv_img2.png' | relative_url }}" alt="" title="two protostars merging"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/circulation/streamlines.png' | relative_url }}" alt="" title="streamlines"/>
     </div>
+</div>
+<div class="caption">
+    Vector fields can be visualized as particles or streamlines.
 </div>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-2">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/pyparticlevis/ppv_img3.png' | relative_url }}" alt="" title="two protostars merging"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/circulation/poleadvection.png' | relative_url }}" alt="advection over the pole" title=""/>
     </div>
     <div class="col-sm mt-2">
-        <img class="img-fluid rounded z-depth-1" src="{{ 'https://hschwane.github.io/assets/img/GraSPH/06.png' | relative_url }}" alt="" title="two protostars merging"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/circulation/polereflection.png ' | relative_url }}" alt="" title="reflection at the pole"/>
     </div>
+</div>
+<div class="caption">
+    Singularities at the poles are a major difficulty when simulating in spherical coordinates. Ideally the structure should be able to move over the pole without changing form (left image) or beeing reflected (right image).
+</div>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm mt-2">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/circulation/lolagrid.png' | relative_url }}" alt="longitude latitude grid" title=""/>
+    </div>
+    <div class="col-sm mt-2">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/circulation/icogrid.png' | relative_url }}" alt="" title="icosahedral grid"/>
+    </div>
+    <div class="col-sm mt-2">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/circulation/rectgrid.png' | relative_url }}" alt="" title="cartesian grid"/>
+    </div>
+</div>
+<div class="caption">
+    Experiemtents were performed with different kinds of grids and coordinate systems. All have advantages and disadvantages as described in the pdf documentation.
 </div>
