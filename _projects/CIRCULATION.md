@@ -3,7 +3,7 @@ layout: page
 title: CIRCULATION
 description: An attempt at interactive climate simulation.
 img: /assets/img/circulation/circ_title.png
-importance: 2
+importance: 8
 ---
 
 <a href="https://github.com/hschwane/CIRCULATION"><i class="fab fa-github"></i> view on github</a><br>
