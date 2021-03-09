@@ -3,7 +3,7 @@ layout: page
 title: mpUtils
 description: A C++ library with various utility functions as well as OpenGL and CUDA support. 
 img:
-importance: 2
+importance: 6
 ---
 
 <a href="https://github.com/hschwane/mpUtils"><i class="fab fa-github"></i> view on github</a>
