@@ -3,7 +3,7 @@ layout: page
 title: PyParticleVis
 description: Python 3D Visualization for point clouds and particle data sets.
 img: /assets/img/pyparticlevis/ppv_img1.png
-importance: 2
+importance: 7
 ---
 
 <a href="https://github.com/hschwane/PyParticleVis"><i class="fab fa-github"></i> view on github</a>
