@@ -3,7 +3,7 @@ layout: page
 title: GraSPH
 description: Interactive Star Formation simulation.
 img: /assets/img/GraSPH/preview.png
-importance: 1
+importance: 9
 ---
 
 <a href="https://github.com/hschwane/GraSPH"><i class="fab fa-github"></i> view on github</a><br>
