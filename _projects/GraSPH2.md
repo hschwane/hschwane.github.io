@@ -9,7 +9,7 @@ importance: 5
 <a href="https://github.com/hschwane/GraSPH2"><i class="fab fa-github"></i> view on github</a><br>
 <a href="/assets/pdf/schwanekampAndKraft2020PlanetFormation.pdf"><i class="fas fa-book"></i> pdf documentation</a>
 
-GraSPH2 is the successor of my interactive star formation simulation [GraSPH](/projects/GraSPH). It uses CUDA instead of OpenGL compute shader, which allows it to run on HPC systems. The physical model was extended to handle solid bodies and is now designed much more flexible to allow for future changes. It can be used for all kinds of particle simulations that require a n-body component. 
+GraSPH2 is the successor of my interactive star formation simulation [GraSPH](/projects/GraSPH). It uses CUDA instead of OpenGL compute shader, which allows it to run on HPC systems. The physical model was extended to handle solid bodies and is now designed much more flexible to allow for future changes. In addition, the user can easily switch between different math precision settings to balance performance and accuracy. GraSPH2 can be used for all kinds of particle simulations that require a n-body component. 
 
 The interactive visualization has been reworked and can now display particles as 3D spheres as well as points. It shows particle properties using different color maps and features a build in UI to customize the visualization settings. In addition to the real time visualization, data can now be stored in files to analyze, view or continue the simulation at a later time.  
 
