@@ -183,6 +183,14 @@ force_white: true
 ## Projects
 selection, see more <a href="/projects/">projects on my website</a>
 
+<a href="https://hschwane.github.io/projects/GraSPH/"><b>GraSPH</b></a><b> and </b><a href="https://hschwane.github.io/projects/GraSPH2/"><b>GraSPH2</b></a><br>
+Perform simulations of star and planet formation on the GPU, while watching the interactive 3D visualization at the same time.
+Simulations of different scale and accuracy can be performed on local workstations or supercomputing systems.
+It allows for rapid testing of different initial conditions and simulation settings before more time consuming and expansive simulaitons are performed. 
+
+<a href="https://hschwane.github.io/projects/mpUtils/"><b>mpUtils</b></a><br>
+A modern C++ library with utility functions and STL extensions. It also provides a framework for graphical applications based on OpenGL and Dear ImGui, as well as CUDA support and utilities for GPU computing.
+
 <div class="row">
     <div class="col-md-8">
         <div style="height:15pt"></div>
