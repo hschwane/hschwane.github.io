@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<title>Hendrik  Schwanekamp | blank</title>
+<title>Hendrik  Schwanekamp | Miniball Cuda</title>
 <meta name="description" content="Hendrik Schwanekamp's Website">
 
 <!-- Open Graph -->
@@ -14,8 +14,8 @@
 <meta property="og:site_name" content="Hendrik Schwanekamp's Website" />
 <meta property="og:type" content="object" />
 <meta property="og:title" content="" />
-<meta property="og:url" content="/blog/index.html" />
-<meta property="og:description" content="blank" />
+<meta property="og:url" content="/projects/MiniballCuda/" />
+<meta property="og:description" content="Miniball Cuda" />
 <meta property="og:image" content="" />
 
 
@@ -35,7 +35,7 @@
 <link rel="shortcut icon" href="/assets/img/favicon.ico">
 <link rel="stylesheet" href="/assets/css/main.css">
 
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/projects/MiniballCuda/">
 
 <!-- JQuery -->
 <!-- jQuery -->
@@ -131,7 +131,7 @@ localStorage.setItem("theme",sessionStorage.getItem("theme"));
           </li>
           
           <!-- Blog -->
-          <li class="nav-item active">
+          <li class="nav-item ">
             <a class="nav-link" href="/blog/">
               blog
               
@@ -203,26 +203,23 @@ localStorage.setItem("theme",sessionStorage.getItem("theme"));
     <div class="container mt-5">
       <div class="post">
 
-  <div class="header-bar">
-    <h1>kitchenTetris</h1>
-    <h2>Eventually I will write here about programming, cooking and my other interests.</h2>
-    
-    You can <a href="https://tinyletter.com/hschwane">subscribe</a>, to get an email notification when I post a new blog entry.
-  </div>
+  <header class="post-header">
+    <h1 class="post-title">Miniball Cuda</h1>
+    <p class="post-description">Find the smallest sphere that encloses a set of points.</p>
+  </header>
 
+  <article>
+    <p><a href="https://github.com/hschwane/MiniballCuda"><i class="fab fa-github"></i> view on github</a></p>
 
-  <ul class="post-list">
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2021/testpost/">test post</a></h3>
-        <p class="post-meta">February 12, 2021</p>
-        <p>Testing the blog system</p>
-      </li>
-    
-  </ul>
+<p>While working with spatial data structures to accelerate n-body GPU simulation, I experimented with bounding spheres. 
+To generate the smallest sphere enclosing all child nodes, I ported Bernd Gaertner’s Miniball algorithm to CUDA. 
+The original code is available on the <a href="https://people.inf.ethz.ch/gaertner/subdir/software/miniball.html">ETHZ Website</a> website. The algorithm is explained in 
+this <a href="http://www.inf.ethz.ch/personal/gaertner/texts/own_work/esa99_final.pdf">Paper</a>.</p>
 
-  
+<p>The CUDA port does not parallelize Miniball itself. Instead it implements Miniball as a device function. 
+This way, every cuda thread can compute it’s own enclosing sphere. The code is available on <a href="https://github.com/hschwane/MiniballCuda">github</a>.</p>
 
+  </article>
 
 </div>
 

@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<title>Hendrik  Schwanekamp | blank</title>
+<title>Hendrik  Schwanekamp | GraSPH</title>
 <meta name="description" content="Hendrik Schwanekamp's Website">
 
 <!-- Open Graph -->
@@ -14,8 +14,8 @@
 <meta property="og:site_name" content="Hendrik Schwanekamp's Website" />
 <meta property="og:type" content="object" />
 <meta property="og:title" content="" />
-<meta property="og:url" content="/blog/index.html" />
-<meta property="og:description" content="blank" />
+<meta property="og:url" content="/projects/GraSPH/" />
+<meta property="og:description" content="GraSPH" />
 <meta property="og:image" content="" />
 
 
@@ -35,7 +35,7 @@
 <link rel="shortcut icon" href="/assets/img/favicon.ico">
 <link rel="stylesheet" href="/assets/css/main.css">
 
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/projects/GraSPH/">
 
 <!-- JQuery -->
 <!-- jQuery -->
@@ -131,7 +131,7 @@ localStorage.setItem("theme",sessionStorage.getItem("theme"));
           </li>
           
           <!-- Blog -->
-          <li class="nav-item active">
+          <li class="nav-item ">
             <a class="nav-link" href="/blog/">
               blog
               
@@ -203,26 +203,85 @@ localStorage.setItem("theme",sessionStorage.getItem("theme"));
     <div class="container mt-5">
       <div class="post">
 
-  <div class="header-bar">
-    <h1>kitchenTetris</h1>
-    <h2>Eventually I will write here about programming, cooking and my other interests.</h2>
-    
-    You can <a href="https://tinyletter.com/hschwane">subscribe</a>, to get an email notification when I post a new blog entry.
-  </div>
+  <header class="post-header">
+    <h1 class="post-title">GraSPH</h1>
+    <p class="post-description">Interactive Star Formation simulation.</p>
+  </header>
 
+  <article>
+    <p><a href="https://github.com/hschwane/GraSPH"><i class="fab fa-github"></i> view on github</a><br />
+<a href="https://kola.opus.hbz-nrw.de/frontdoor/index/index/docId/1638"><i class="fas fa-book"></i> thesis (german)</a></p>
 
-  <ul class="post-list">
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2021/testpost/">test post</a></h3>
-        <p class="post-meta">February 12, 2021</p>
-        <p>Testing the blog system</p>
-      </li>
-    
-  </ul>
+<p>For my bachelor thesis, I developed a code to simulate star formation interactively. 
+It simulates a gas cloud using <a href="https://en.wikipedia.org/wiki/Smoothed-particle_hydrodynamics">Smoothed Particle Hydrodynamics</a>. 
+All particles attract each other by gravity. To reach interactive speeds with a simulation model form astrophysics, most calculations are performed on the GPU.
+I used OpenGL compute shader for the simulation and the OpenGL rendering pipeline for visualization. In addition many parameters exist to tune accuracy against speed. Since the simulation is rendered in 3D while it is running, the user can fly around the gas cloud using the W,A,S,D-keys, similar to a video game.</p>
 
-  
+<p>You can download my thesis <a href="https://kola.opus.hbz-nrw.de/frontdoor/index/index/docId/1638">here</a>, and dive into the deatail. It is however written in german.</p>
 
+<p>If you want to try the full experience, I recommend you to download the code from the <a href="https://github.com/hschwane/GraSPH">github repository</a> 
+and compile it for your machine. Alternatively, check out this youtube video, which was screen-captured on a consumer grade laptop:</p>
+
+<div>
+<div id="yt-wrap" style="position:relative; padding-top:56.25%; background-color: lightgray;">
+<div style="text-align:center; position:absolute;top:0;left:0;width:100%;height:100%; display:flex; justify-content:center; align-items:center;">
+<p style="color:black;">Please enable functional cookies in the cookie preferences (botom of the page),<br /> to view the video. Or view on <a href="https://youtu.be/PUyE3j0aoMw">youtube</a>.</p>
+</div>
+</div>
+</div>
+<script type="text/plain" cookie-consent="functionality"> 
+var obj = {"video": {"value": "<iframe style='position:absolute;top:0;left:0;width:100%;height:100%;' src='https://www.youtube-nocookie.com/embed/PUyE3j0aoMw' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"}};
+$("#yt-wrap").html(obj.video.value);
+</script>
+
+<p><br />
+<br />
+After finishing my thesis, I continued working on the code as part of my job as a research assistant at the <a href="http://www.mpia.de/en">Max Planck Institute for Astronomy</a>. It was extended to simulate planet formation and became <a href="/projects/GraSPH2">GraSPH2</a>.</p>
+
+<p>While it could never rival supercomputer simulations desgined for pyhsics simulation in resolution or accuracy, it was still very useful to our research group. It was quick to change settings or implement a new feature and then run a simulation with immedite feedback. The quick turn-around time allows what I call rapid prototyping for scientific simulations. It resulted in the testing of many different settings over the course of a creative and very late evening. Probably best described as the physics equivalent to a hackathon. Something not possible at all with a simulation code, that needs a few houres or days to run in a remote supercomputing center</p>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/GraSPH/06.png" alt="" title="star formation simulation" />
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/GraSPH/07.png" alt="" title="star formation simulation" />
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/GraSPH/08.png" alt="" title="star formation simulation" />
+    </div>
+</div>
+<div class="caption">
+    When the simulation runs, the gas cloud compresses under the the force of it's own gravity. Because sub-clouds also collapse, it fragments and multiple structures form.
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/GraSPH/01.png" alt="" title="different zoom levels" />
+    </div>
+</div>
+<div class="caption">
+    Multiple zoom levels of the simulation composited on top of each other. This shows the wide range of different scales SPH can handle in one simulation. Since it is based on particles, variable resulotion is almost 'build in'.
+</div>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/GraSPH/02.png" alt="" title="two protostars merging" />
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/GraSPH/03.png" alt="" title="two protostars merging" />
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/GraSPH/04.png" alt="" title="two protostars merging" />
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/GraSPH/05.png" alt="" title="two protostars merging" />
+    </div>
+</div>
+<div class="caption">
+    Here two protostars move very close to each other. They form a binary system, orbiting each other. The system is not stable and the stars move closer until they finally merge.
+</div>
+
+  </article>
 
 </div>
 

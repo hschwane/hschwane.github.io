@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<title>Hendrik  Schwanekamp | blank</title>
+<title>Hendrik  Schwanekamp | PyParticleVis</title>
 <meta name="description" content="Hendrik Schwanekamp's Website">
 
 <!-- Open Graph -->
@@ -14,8 +14,8 @@
 <meta property="og:site_name" content="Hendrik Schwanekamp's Website" />
 <meta property="og:type" content="object" />
 <meta property="og:title" content="" />
-<meta property="og:url" content="/blog/index.html" />
-<meta property="og:description" content="blank" />
+<meta property="og:url" content="/projects/PyParticleVis/" />
+<meta property="og:description" content="PyParticleVis" />
 <meta property="og:image" content="" />
 
 
@@ -35,7 +35,7 @@
 <link rel="shortcut icon" href="/assets/img/favicon.ico">
 <link rel="stylesheet" href="/assets/css/main.css">
 
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/projects/PyParticleVis/">
 
 <!-- JQuery -->
 <!-- jQuery -->
@@ -131,7 +131,7 @@ localStorage.setItem("theme",sessionStorage.getItem("theme"));
           </li>
           
           <!-- Blog -->
-          <li class="nav-item active">
+          <li class="nav-item ">
             <a class="nav-link" href="/blog/">
               blog
               
@@ -203,26 +203,46 @@ localStorage.setItem("theme",sessionStorage.getItem("theme"));
     <div class="container mt-5">
       <div class="post">
 
-  <div class="header-bar">
-    <h1>kitchenTetris</h1>
-    <h2>Eventually I will write here about programming, cooking and my other interests.</h2>
-    
-    You can <a href="https://tinyletter.com/hschwane">subscribe</a>, to get an email notification when I post a new blog entry.
-  </div>
+  <header class="post-header">
+    <h1 class="post-title">PyParticleVis</h1>
+    <p class="post-description">Python 3D Visualization for point clouds and particle data sets.</p>
+  </header>
 
+  <article>
+    <p><a href="https://github.com/hschwane/PyParticleVis"><i class="fab fa-github"></i> view on github</a></p>
 
-  <ul class="post-list">
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2021/testpost/">test post</a></h3>
-        <p class="post-meta">February 12, 2021</p>
-        <p>Testing the blog system</p>
-      </li>
-    
-  </ul>
+<p>This project takes the point cloud visualization code form <a href="/projects/GraSPH">GraSPH</a> / <a href="/projects/GraSPH2">GraSPH2</a> and makes it accesible from python. Anyone who uses python for data analysis of point or particle datasets can use <strong>PyParticleVis</strong> to explore their data in 3D.</p>
 
-  
+<h2 id="features">Features</h2>
+<ul>
+  <li>good performance with large number of points</li>
+  <li>render as shaded spheres or 2d points</li>
+  <li>generate colors by applieing transfer functions on vector or scalar properties</li>
+  <li>load a custom texture for the spheres</li>
+  <li>set different sizes for particles based on a scalar property</li>
+  <li>explore the point cloud interactively in 3D with mouse and keyboard</li>
+  <li>many more settings to customize the visualization</li>
+</ul>
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm mt-2">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/pyparticlevis/ppv_img1.png" alt="" title="two protostars merging" />
+    </div>
+    <div class="col-sm mt-2">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/pyparticlevis/ppv_img2.png" alt="" title="two protostars merging" />
+    </div>
+</div>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm mt-2">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/pyparticlevis/ppv_img3.png" alt="" title="two protostars merging" />
+    </div>
+    <div class="col-sm mt-2">
+        <img class="img-fluid rounded z-depth-1" src="https://hschwane.github.io/assets/img/GraSPH/06.png" alt="" title="two protostars merging" />
+    </div>
+</div>
+
+  </article>
 
 </div>
 

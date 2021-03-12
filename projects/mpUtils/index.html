@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<title>Hendrik  Schwanekamp | blank</title>
+<title>Hendrik  Schwanekamp | mpUtils</title>
 <meta name="description" content="Hendrik Schwanekamp's Website">
 
 <!-- Open Graph -->
@@ -14,8 +14,8 @@
 <meta property="og:site_name" content="Hendrik Schwanekamp's Website" />
 <meta property="og:type" content="object" />
 <meta property="og:title" content="" />
-<meta property="og:url" content="/blog/index.html" />
-<meta property="og:description" content="blank" />
+<meta property="og:url" content="/projects/mpUtils/" />
+<meta property="og:description" content="mpUtils" />
 <meta property="og:image" content="" />
 
 
@@ -35,7 +35,7 @@
 <link rel="shortcut icon" href="/assets/img/favicon.ico">
 <link rel="stylesheet" href="/assets/css/main.css">
 
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/projects/mpUtils/">
 
 <!-- JQuery -->
 <!-- jQuery -->
@@ -131,7 +131,7 @@ localStorage.setItem("theme",sessionStorage.getItem("theme"));
           </li>
           
           <!-- Blog -->
-          <li class="nav-item active">
+          <li class="nav-item ">
             <a class="nav-link" href="/blog/">
               blog
               
@@ -203,26 +203,26 @@ localStorage.setItem("theme",sessionStorage.getItem("theme"));
     <div class="container mt-5">
       <div class="post">
 
-  <div class="header-bar">
-    <h1>kitchenTetris</h1>
-    <h2>Eventually I will write here about programming, cooking and my other interests.</h2>
-    
-    You can <a href="https://tinyletter.com/hschwane">subscribe</a>, to get an email notification when I post a new blog entry.
-  </div>
+  <header class="post-header">
+    <h1 class="post-title">mpUtils</h1>
+    <p class="post-description">A C++ library with various utility functions as well as OpenGL and CUDA support.</p>
+  </header>
+
+  <article>
+    <p><a href="https://github.com/hschwane/mpUtils"><i class="fab fa-github"></i> view on github</a></p>
+
+<p>The mpUtils library is a collection of utility classes and functions I have used in many of my projects. 
+It runs on Linux and Windows and integrates with OpenGL and <a href="https://github.com/ocornut/imgui">Dear ImGui</a> to create graphical applications. 
+A game-engine-like API to simplify the creation of interactive graphics is work in progress. It can also be used together with CUDA and 
+provides a few helpers such as simplifed interoperability with the OpenGL parts of the aplpication.</p>
+
+<p>The next release is planned to use the MIT license and support C++17. 
+A CMAKE based build process and minimal external dependencies allow for easy compillation. 
+Many of the functions and classes provided by the library are independent and can be used on their own in other projects, 
+without including the entire library. A <a href="https://github.com/hschwane/mpUtils#features">list of features</a> can be found on the github page.</p>
 
 
-  <ul class="post-list">
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2021/testpost/">test post</a></h3>
-        <p class="post-meta">February 12, 2021</p>
-        <p>Testing the blog system</p>
-      </li>
-    
-  </ul>
-
-  
-
+  </article>
 
 </div>
 

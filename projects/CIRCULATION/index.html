@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<title>Hendrik  Schwanekamp | blank</title>
+<title>Hendrik  Schwanekamp | CIRCULATION</title>
 <meta name="description" content="Hendrik Schwanekamp's Website">
 
 <!-- Open Graph -->
@@ -14,8 +14,8 @@
 <meta property="og:site_name" content="Hendrik Schwanekamp's Website" />
 <meta property="og:type" content="object" />
 <meta property="og:title" content="" />
-<meta property="og:url" content="/blog/index.html" />
-<meta property="og:description" content="blank" />
+<meta property="og:url" content="/projects/CIRCULATION/" />
+<meta property="og:description" content="CIRCULATION" />
 <meta property="og:image" content="" />
 
 
@@ -35,7 +35,7 @@
 <link rel="shortcut icon" href="/assets/img/favicon.ico">
 <link rel="stylesheet" href="/assets/css/main.css">
 
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/projects/CIRCULATION/">
 
 <!-- JQuery -->
 <!-- jQuery -->
@@ -131,7 +131,7 @@ localStorage.setItem("theme",sessionStorage.getItem("theme"));
           </li>
           
           <!-- Blog -->
-          <li class="nav-item active">
+          <li class="nav-item ">
             <a class="nav-link" href="/blog/">
               blog
               
@@ -203,26 +203,83 @@ localStorage.setItem("theme",sessionStorage.getItem("theme"));
     <div class="container mt-5">
       <div class="post">
 
-  <div class="header-bar">
-    <h1>kitchenTetris</h1>
-    <h2>Eventually I will write here about programming, cooking and my other interests.</h2>
-    
-    You can <a href="https://tinyletter.com/hschwane">subscribe</a>, to get an email notification when I post a new blog entry.
-  </div>
+  <header class="post-header">
+    <h1 class="post-title">CIRCULATION</h1>
+    <p class="post-description">An attempt at interactive climate simulation.</p>
+  </header>
 
+  <article>
+    <p><a href="https://github.com/hschwane/CIRCULATION"><i class="fab fa-github"></i> view on github</a><br />
+<a href="/assets/pdf/schwanekamp2020interactiveMeteorology.pdf"><i class="fas fa-book"></i> pdf documentation</a></p>
 
-  <ul class="post-list">
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2021/testpost/">test post</a></h3>
-        <p class="post-meta">February 12, 2021</p>
-        <p>Testing the blog system</p>
-      </li>
-    
-  </ul>
+<p>Many people only showcase the projects they consider sucessfull. 
+Not only does this create unrealistic expectations of how the research process looks like, 
+it also disregards how much can be learned, even the goals set at the start of a project are not met.</p>
 
-  
+<p><code class="language-plaintext highlighter-rouge">CIRCULATION</code> stands for Cuda InteRactive Climate simULATION. The idea was to build a prototype for a new climate simulation code to run on GPUs.
+It should have featured an user interface for changeing initial conditions and simulation settings, 
+as well as an interactive 3D visualization that is updated while the simulation is runniong. 
+The simulation of compressible fluids in spherical coordinates proved to be quite hard and multiple difficulties were encountered along the way. 
+In the end of the allocated timeframe of the project (one day per week for one semester), 
+the projects code resembles a collection of experiments more than a finished prototype.</p>
 
+<p>I still belive that building such a code is possible given more time and and the support of experienced meteorologists. It could also be extended to run on 
+modern supercomputers which feature more and more GPU nodes. 
+The lessons learned from those experiments are now used by <a href="https://iac.ethz.ch/group/atmospheric-predictability.html">scientists at ETHZ</a> to advance their research.</p>
+
+<p>The project <a href="/assets/pdf/schwanekamp2020interactiveMeteorology.pdf">documentation</a> describes all explored methods and documents the lessons learned. 
+While it might be formatted like a research paper it was not peer reviewed and published in the traditional way. 
+It is merly a project documentation and should be treated as such.</p>
+
+<div class="row">
+    <div class="col-sm mt-3">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/circulation/circulation_full.png" alt="" title="circulation ui and visualization" />
+    </div>
+</div>
+<div class="caption">
+    Screenshot shows the ui and visualization during a running simulation.
+</div>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm mt-2">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/circulation/arrows_small.png" alt="" title="vector field arrows" />
+    </div>
+    <div class="col-sm mt-2">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/circulation/streamlines.png" alt="" title="streamlines" />
+    </div>
+</div>
+<div class="caption">
+    Vector fields can be visualized as arrows or streamlines.
+</div>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm mt-2">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/circulation/poleadvection.png" alt="" title="advection over the pole" />
+    </div>
+    <div class="col-sm mt-2">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/circulation/polereflection.png" alt="" title="reflection at the pole" />
+    </div>
+</div>
+<div class="caption">
+    Singularities at the poles are a major difficulty when simulating in spherical coordinates. Ideally the structure should be able to move over the pole without changing form (left image) or beeing reflected (right image).
+</div>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm mt-2">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/circulation/lolagrid.png" alt="" title="longitude latitude grid" />
+    </div>
+    <div class="col-sm mt-2">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/circulation/icogrid.png" alt="" title="icosahedral grid" />
+    </div>
+    <div class="col-sm mt-2">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/circulation/rectgrid.png" alt="" title="cartesian grid" />
+    </div>
+</div>
+<div class="caption">
+    Experiemtents were performed with different kinds of grids and coordinate systems. All have advantages and disadvantages as described in the pdf documentation.
+</div>
+
+  </article>
 
 </div>
 
